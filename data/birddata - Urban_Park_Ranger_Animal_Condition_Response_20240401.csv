@@ -1,0 +1,572 @@
+01/03/2022 12:38:00 PM,Bronx,Pelham Bay Park,Ring-Billed Gull,Native,Injured,Birds,1
+01/04/2022 3:00:00 PM,Brooklyn,Calvert Vaux Park,Rock Dove,Native,Unhealthy,Birds,1
+01/06/2022 8:30:00 AM,Brooklyn,Prospect Park,Mute Swan,Invasive,Injured,Birds,1
+01/07/2022 8:30:00 AM,Bronx,Pelham Bay Park,White-throated Sparrow,Native,Healthy,Birds,1
+01/07/2022 10:30:00 AM,Bronx,Pelham Bay Park,White-throated Sparrow,Native,Healthy,Birds,1
+01/07/2022 12:20:00 PM,Manhattan,Central Park,Mallard Duck,Native,N/A,Birds,1
+01/07/2022 12:20:00 PM,Manhattan,Central Park,Mallard Duck,Native,Unhealthy,Birds,1
+01/07/2022 12:20:00 PM,Manhattan,Central Park,Mallard Duck,Native,Unhealthy,Birds,1
+01/09/2022 9:00:00 AM,Brooklyn,Belt Parkway/Shore Parkway,Herring Gull,Native,N/A,Birds,0
+01/09/2022 12:30:00 PM,Queens,Brookville Park,Chicken,Domestic,Injured,"Birds, Domestic",1
+01/09/2022 12:45:00 PM,Manhattan,Central Park,Mallard Duck,Native,Unhealthy,Birds,1
+01/11/2022 11:30:00 AM,Staten Island,Willowbrook Park,Canada Goose,Native,Injured,Birds,1
+01/12/2022 5:00:00 PM,Brooklyn,Bush Terminal Park,Red-breasted Merganser,Native,Unhealthy,Birds,0
+01/13/2022 3:00:00 PM,Brooklyn,Prospect Park,Canada Goose,Native,Injured,Birds,0
+01/14/2022 9:30:00 AM,Brooklyn,Prospect Park,Mute Swan,Invasive,Unhealthy,Birds,1
+01/14/2022 1:00:00 PM,Brooklyn,Bush Terminal Park,Red-breasted Merganser,Native,Injured,Birds,0
+01/15/2022 11:00:00 AM,Brooklyn,Bush Terminal Park,Red-breasted Merganser,Native,Injured,Birds,0
+01/17/2022 9:00:00 AM,Brooklyn,Prospect Park,Bird (Unknown),Domestic,N/A,"Domestic, Birds",0
+01/17/2022 1:15:00 PM,Manhattan,Central Park,Mallard Duck,Native,Unhealthy,Birds,1
+01/18/2022 11:30:00 AM,Manhattan,Central Park,Northern Cardinal,Native,Injured,Birds,1
+01/19/2022 9:00:00 AM,Brooklyn,Brooklyn Bridge Park,Chicken,Domestic,Healthy,"Domestic, Birds",1
+01/20/2022 8:40:00 AM,Queens,Flushing Meadows Corona Park,Chicken,Domestic,Healthy,"Domestic, Birds",0
+01/22/2022 9:00:00 AM,Brooklyn,Prospect Park,Great Blue Heron,Native,Injured,Birds,0
+01/22/2022 9:45:00 AM,Queens,Powell's Cove Park,Mute Swan,Invasive,DOA,Birds,0
+01/22/2022 3:30:00 PM,Brooklyn,Prospect Park,Great Blue Heron,Native,Injured,Birds,0
+01/22/2022 4:30:00 PM,Manhattan,Central Park,Lesser Scaup,Native,Unhealthy,Birds,1
+01/22/2022 4:30:00 PM,Manhattan,Central Park,Gull (Unknown),Native,Injured,Birds,0
+01/24/2022 9:00:00 AM,Queens,Cunningham Park,Mute Swan,Invasive,Unhealthy,Birds,1
+01/24/2022 9:15:00 AM,Queens,Powell's Cove Park,Mute Swan,Invasive,DOA,Birds,1
+01/24/2022 10:41:00 PM,Queens,Flushing Meadows Corona Park,Chicken,Domestic,Healthy,"Birds, Domestic",1
+01/25/2022 9:45:00 AM,Manhattan,Highbridge Park,Red-tailed Hawk,Native,Healthy,Raptors,1
+01/25/2022 10:30:00 AM,Manhattan,Highbridge Park,Red-tailed Hawk,Native,Healthy,Raptors,1
+01/27/2022 3:20:00 PM,Queens,Elmhurst Park,Chicken,Domestic,Healthy,"Domestic, Birds",0
+01/28/2022 3:00:00 PM,Queens,Elmhurst Park,Chicken,Domestic,Healthy,"Domestic, Birds",0
+01/28/2022 3:30:00 PM,Manhattan,Central Park,Ruddy Duck,Native,Injured,Birds,1
+01/29/2022 1:00:00 PM,Manhattan,Central Park,Ruddy Duck,Native,Injured,Birds,1
+01/31/2022 9:30:00 AM,Manhattan,Foley Square,Cooper's Hawk,Native,Injured,Raptors,1
+01/31/2022 10:00:00 AM,Staten Island,Blue Heron Park,White-throated Sparrow,Native,DOA,Birds,1
+02/02/2022 10:00:00 AM,Manhattan,Central Park,Herring Gull,Native,Healthy,Birds,1
+02/02/2022 1:30:00 PM,Brooklyn,Prospect Park,Mute Swan,Invasive,Healthy,Birds,1
+02/02/2022 3:45:00 PM,Queens,Lefferts Blvd and Jamaica Ave,Cooper's Hawk,Native,Injured,Raptors,1
+02/03/2022 3:50:00 AM,Queens,Kissena Park,Canada Goose,Native,Injured,Birds,0
+02/03/2022 3:30:00 PM,Manhattan,Central Park,Wood Duck,Native,Injured,Birds,1
+02/04/2022 7:45:00 AM,Staten Island,LaTourette Park & Golf Course,Red-tailed Hawk,Native,Injured,Raptors,1
+02/04/2022 2:45:00 PM,Manhattan,Central Park,Wood Duck,Native,Healthy,Birds,1
+02/06/2022 2:45:00 PM,Brooklyn,Prospect Park,Gull (Unknown),Native,Injured,Birds,1
+02/08/2022 9:00:00 AM,Brooklyn,Bridge Park 3,Gadwall,Native,Injured,Birds,1
+02/08/2022 9:30:00 AM,Staten Island,Willowbrook Park,Herring Gull,Native,Healthy,Birds,0
+02/09/2022 12:30:00 PM,Bronx,Claremont Park,Chicken,Domestic,DOA,"Domestic, Birds",1
+02/09/2022 2:45:00 PM,Brooklyn,Prospect Park,Canada Goose,Native,Injured,Birds,1
+02/09/2022 5:30:00 PM,Brooklyn,Prospect Park,Mute Swan,Invasive,Injured,Birds,1
+02/09/2022 5:30:00 PM,Bronx,Hart Island,Bald Eagle,Native,Injured,Raptors,1
+02/10/2022 10:50:00 AM,Staten Island,Walker Park,Canada Goose,Native,Unhealthy,Birds,1
+02/11/2022 5:00:00 PM,Brooklyn,Prospect Park,Mute Swan,Invasive,Injured,Birds,1
+02/12/2022 4:00:00 PM,Brooklyn,Prospect Park,Canada Goose,Native,Injured,Birds,1
+02/14/2022 11:15:00 AM,Manhattan,Central Park,Bufflehead,Native,Healthy,Birds,0
+02/14/2022 1:00:00 PM,Brooklyn,Washington Park,Red-tailed Hawk,Native,Injured,Raptors,1
+02/16/2022 10:00:00 AM,Brooklyn,Bush Terminal Park,Northern Shoveler,Native,Unhealthy,Birds,1
+02/16/2022 10:20:00 AM,Queens,Baisley Pond Park,Herring Gull,Native,Injured,Birds,0
+02/16/2022 4:30:00 PM,Brooklyn,Prospect Park,Gull (Unknown),Native,Injured,Birds,1
+02/17/2022 2:00:00 AM,Queens,College Point Fields,Gull (Unknown),Native,,Birds,0
+02/17/2022 12:00:00 PM,Staten Island,Clove Lakes Park,Great Blue Heron,Native,DOA,Birds,1
+02/17/2022 2:00:00 PM,Manhattan,Central Park,Red-tailed Hawk,Native,Injured,Raptors,0
+02/17/2022 2:30:00 PM,Manhattan,Central Park,Cooper's Hawk,Native,Healthy,Raptors,1
+02/19/2022 2:30:00 PM,Brooklyn,Bush Terminal Park,Brant,Native,Injured,Birds,1
+02/20/2022 11:00:00 AM,Brooklyn,Marine Park,Mute Swan,Invasive,Healthy,Birds,1
+02/21/2022 10:00:00 AM,Brooklyn,Lew Fidler Park,Mute Swan,Invasive,Healthy,Birds,1
+02/22/2022 3:30:00 PM,Staten Island,Great Kills Park,Pied-billed Grebe,Native,DOA,Birds,1
+02/23/2022 2:30:00 PM,Bronx,Hunts Point Playground,Chicken,Domestic,Unhealthy,"Domestic, Birds",1
+02/24/2022 7:30:00 AM,Manhattan,Central Park,Red-tailed Hawk,Native,Injured,Raptors,1
+02/24/2022 2:15:00 PM,Bronx,Ferry Point Park,Herring Gull,Native,Injured,Birds,1
+02/24/2022 4:42:00 PM,Queens,Baisley Pond Park,Canada Goose,Native,DOA,Birds,1
+02/25/2022 11:15:00 AM,Brooklyn,Prospect Park,Mute Swan,Invasive,Unhealthy,Birds,1
+02/26/2022 8:05:00 AM,Brooklyn,Lew Fidler Park,Mute Swan,Invasive,Injured,Birds,0
+02/26/2022 9:00:00 AM,Queens,Rockaway Beach and Boardwalk,Herring Gull,Native,Injured,Birds,0
+02/26/2022 9:50:00 AM,Brooklyn,Marine Park,Herring Gull,Native,Injured,Birds,0
+02/27/2022 10:30:00 AM,Brooklyn,Coney Island Beach &amp; Boardwalk,Turkey Vulture,Native,Injured,Raptors,0
+02/28/2022 6:00:00 PM,Brooklyn,Dyker Beach Park,Cooper's Hawk,Native,Injured,Raptors,1
+03/01/2022 11:30:00 AM,Manhattan,Union Square Park,Red-tailed Hawk,Native,Unhealthy,Raptors,1
+03/03/2022 2:45:00 PM,Brooklyn,Lew Fiddler Park,Mute Swan,Invasive,Healthy,Birds,1
+03/03/2022 3:30:00 PM,Manhattan,Central Park,Canada Goose,Native,N/A,Birds,0
+03/05/2022 8:00:00 AM,Manhattan,Inwood Hill Park,Chicken,Domestic,Unhealthy,"Birds, Domestic",6
+03/07/2022 9:00:00 AM,Manhattan,Sara D. Roosevelt Park,Cooper's Hawk,Native,DOA,Raptors,1
+03/07/2022 9:35:00 AM,Staten Island,Willowbrook Park,Canada Goose,Native,Injured,Birds,1
+03/07/2022 10:10:00 AM,Staten Island,Willowbrook Park,Chicken,Domestic,Healthy,"Birds, Domestic",1
+03/07/2022 11:07:00 AM,Staten Island,Snug Harbor Cultural Center,Canada Goose,Native,Healthy,Birds,1
+03/08/2022 10:25:00 AM,Manhattan,Gertrude Ederle Recreation Center,American Woodcock,Native,Injured,Birds,1
+03/08/2022 2:30:00 PM,Manhattan,Central Park,Canada Goose,Native,Injured,Birds,1
+03/08/2022 2:30:00 PM,Manhattan,Central Park,Canada Goose,Native,Injured,Birds,0
+03/08/2022 2:30:00 PM,Manhattan,Central Park,Canada Goose,Native,Injured,Birds,1
+03/10/2022 12:25:00 PM,Queens,Rockaway Beach and Boardwalk,Mute Swan,Invasive,Injured,Birds,1
+03/11/2022 2:30:00 PM,Staten Island,Ocean Breeze Park,Canada Goose,Native,Injured,Birds,1
+03/13/2022 1:00:00 PM,Manhattan,Central Park,Canada Goose,Native,N/A,Birds,0
+03/13/2022 3:30:00 PM,Brooklyn,Marine Park,Canada Goose,Native,N/A,Birds,0
+03/14/2022 2:10:00 PM,Queens,Queensbridge Park,Red-tailed Hawk,Native,Injured,Raptors,0
+03/16/2022 9:15:00 AM,Manhattan,Central Park,Canada Goose,Native,Injured,Birds,0
+03/16/2022 2:15:00 PM,Staten Island,Wolfe's Pond Park,Canada Goose,Native,Injured,Birds,1
+03/17/2022 9:15:00 AM,Queens,Flushing Meadows Corona Park,Canada Goose,Native,DOA,Birds,1
+03/17/2022 10:00:00 AM,Manhattan,Tompkins Square Park,Cooper's Hawk,Native,DOA,Raptors,1
+03/17/2022 12:00:00 PM,Staten Island,Blue Heron Park,Wild Turkey,Native,Healthy,Birds,1
+03/17/2022 12:00:00 PM,Queens,Brookville Park,Mute Swan,Invasive,Healthy,Birds,1
+03/17/2022 2:30:00 PM,Brooklyn,Marine Park,Brant,Native,Injured,Birds,1
+03/18/2022 2:30:00 PM,Manhattan,Morningside Park,American Robin,Native,Injured,Birds,1
+03/18/2022 4:00:00 PM,Brooklyn,WNYC Transmitter Park,Rock Dove,Native,Injured,Birds,1
+03/22/2022 11:30:00 AM,Staten Island,Willowbrook Park,Mallard Duck,Native,Injured,Birds,0
+03/23/2022 2:15:00 PM,Brooklyn,Coney Island Beach &amp; Boardwalk,Herring Gull,Native,DOA,Birds,1
+03/27/2022 10:30:00 AM,Bronx,Van Cortlandt Park,Mute Swan,Invasive,DOA,Birds,1
+03/27/2022 11:55:00 AM,Manhattan,Riverside Park,Canada Goose,Native,Injured,Birds,0
+03/28/2022 10:00:00 AM,Staten Island,Lemon Creek Park,Mute Swan,Invasive,N/A,Birds,0
+03/28/2022 1:30:00 PM,Manhattan,Riverside Park,Canada Goose,Native,Injured,Birds,1
+03/29/2022 3:30:00 PM,Brooklyn,Prospect Park,Mallard Duck,Native,Healthy,Birds,1
+03/29/2022 7:02:00 PM,Queens,Al Oerter Recreation Center,Rock Dove,Native,Injured,Birds,1
+03/30/2022 9:00:00 AM,Bronx,Van Cortlandt Park,Canada Goose,Native,Injured,Birds,1
+03/30/2022 12:00:00 PM,Brooklyn,Prospect Park,Canada goose,Native,Unhealthy,Birds,1
+04/01/2022 10:00:00 AM,Manhattan,Bryant Park,American Woodcock,Native,Injured,Birds,0
+04/04/2022 11:00:00 AM,Brooklyn,Marine Park,Canada Goose,Native,DOA,Birds,1
+04/06/2022 1:00:00 PM,Bronx,Ranaqua Park,Mourning Dove,Native,Injured,Birds,1
+04/06/2022 2:22:00 PM,Queens,Flushing Meadows Corona Park,Common Raven,Native,Injured,Birds,1
+04/08/2022 10:00:00 AM,Manhattan,Inwood Hill Park,Chicken,Domestic,Healthy,"Domestic, Birds",1
+04/09/2022 10:30:00 AM,Brooklyn,Brooklyn Bridge Park,American Robin,Native,Injured,Birds,1
+04/10/2022 3:45:00 PM,Bronx,Van Cortlandt Park,Yellow-bellied Sapsucker,Native,Injured,Birds,1
+04/11/2022 9:35:00 AM,Bronx,Crotona Park,Mallard Duck,Native,Injured,Birds,1
+04/12/2022 2:10:00 PM,Manhattan,Central Park,House Sparrow,Native,DOA,Birds,1
+04/14/2022 10:30:00 AM,Manhattan,Central Park,Mallard Duck,Native,Injured,Birds,1
+04/14/2022 2:30:00 PM,Brooklyn,Fort Greene Park,Mourning Dove,Native,Healthy,Birds,1
+04/15/2022 8:30:00 AM,Staten Island,Brookfield Park,Rock Dove,Domestic,Injured,Birds,1
+04/15/2022 4:30:00 PM,Bronx,Pelham Bay Park,Common Loon,Native,Healthy,Birds,1
+04/16/2022 10:00:00 AM,Manhattan,Morningside Park,American Robin,Native,Injured,Birds,1
+04/19/2022 4:00:00 PM,Bronx,Concrete Plant Park,Chicken,Domestic,DOA,"Birds, Domestic",2
+04/20/2022 11:00:00 AM,Brooklyn,Prospect Park,Red-throated Loon,Native,Healthy,Birds,1
+04/20/2022 1:00:00 PM,Manhattan,The Battery,Double-Crested Cormorant,Native,Injured,Birds,0
+04/21/2022 11:30:00 AM,Manhattan,Carl Schurz Park,Rock Dove,Native,,Birds,1
+04/22/2022 11:50:00 AM,Brooklyn,Fort Greene Park,American Robin,Native,Healthy,Birds,1
+04/22/2022 1:40:00 PM,Queens,Brookville Park,Canada Goose,Native,Injured,Birds,1
+04/22/2022 2:30:00 PM,Queens,Hunter's Point South Park,Double-crested Cormorant,Native,Injured,Birds,1
+04/22/2022 4:00:00 PM,Staten Island,Wolfe's Pond Park,Gull (Unknown),Native,DOA,Birds,1
+04/23/2022 9:33:00 AM,Queens,Alley Pond Park,Mute Swan,Invasive,Healthy,Birds,1
+04/23/2022 1:30:00 PM,Brooklyn,Sheepshead Bay Piers,Mute Swan,Invasive,Healthy,Birds,1
+04/25/2022 7:00:00 AM,Staten Island,Ocean Breeze Track & Field Athletic Complex,Virginia Rail,Native,DOA,Birds,1
+04/25/2022 8:00:00 AM,Queens,Kissena Park,Great Horned Owl,Native,Healthy,Raptors,1
+04/25/2022 8:10:00 AM,Bronx,Mill Pond Park,Canada Goose,Native,Unhealthy,Birds,1
+04/26/2022 9:00:00 AM,Brooklyn,Brighton Beach,Turkey Vulture,Native,Injured,Raptors,1
+04/26/2022 9:30:00 AM,Brooklyn,Bill Brown Playground,Chicken,Domestic,Healthy,"Birds, Domestic",1
+04/26/2022 1:40:00 PM,Staten Island,Wolfe's Pond Park,Great Black-backed Gull,Native,DOA,Birds,1
+04/27/2022 11:40:00 AM,Bronx,Henry Hudson Park,American Robin,Native,Injured,Birds,1
+04/27/2022 5:30:00 PM,Staten Island,Blue Heron Park,Red-tailed Hawk,Native,Unhealthy,Raptors,1
+04/28/2022 8:30:00 AM,Manhattan,Inwood Hill Park,Chicken,Domestic,Healthy,"Domestic, Birds",2
+04/28/2022 10:00:00 AM,Queens,Flushing Meadows Corona Park,Mallard Duck,Native,DOA,Birds,1
+04/28/2022 5:30:00 PM,Brooklyn,Marine Park,American Robin,Native,,Birds,1
+05/01/2022 10:50:00 AM,Manhattan,Central Park,House Sparrow,Native,Unhealthy,Birds,1
+05/01/2022 3:20:00 PM,Queens,Fort Totten Park,Mute Swan,Invasive,Injured,Birds,1
+05/02/2022 11:30:00 AM,Brooklyn,Prospect Park,Herring Gull,Native,,Birds,1
+05/04/2022 2:00:00 PM,Brooklyn,Fort Greene Park,Rose-breasted Grosbeak,Native,Injured,Birds,1
+05/05/2022 12:00:00 PM,Queens,Alley Pond Park,Mute Swan,Invasive,Healthy,Birds,1
+05/05/2022 12:30:00 PM,Brooklyn,Betsy Head Park,Rock Dove,Native,Healthy,Birds,2
+05/05/2022 2:30:00 PM,Manhattan,Central Park,Canada Goose,Native,Injured,Birds,0
+05/06/2022 12:00:00 AM,Bronx,Mill Pond Park,Canada Goose,Native,Unhealthy,Birds,1
+05/06/2022 11:50:00 AM,Manhattan,Central Park,American Robin,Native,DOA,Birds,1
+05/08/2022 3:15:00 PM,Queens,Astoria Park,Common Raven,Native,Injured,Birds,1
+05/12/2022 12:20:00 PM,Queens,Captain Tilly Park,Mallard Duck,Native,Injured,Birds,1
+05/12/2022 2:50:00 PM,Queens,Kissena Park,European Starling,Invasive,Healthy,Birds,1
+05/12/2022 4:30:00 PM,Staten Island,Blue Heron Park,European Starling,Invasive,Healthy,Birds,1
+05/12/2022 5:30:00 PM,Brooklyn,McCarren Park,American Robin,Native,Injured,Birds,1
+05/13/2022 1:00:00 PM,Brooklyn,Marine Park,American Robin,Native,Injured,Birds,1
+05/13/2022 1:30:00 PM,Brooklyn,Prospect Park,Red-Throated Loon,Native,Injured,Birds,1
+05/13/2022 1:45:00 PM,Staten Island,Clove Lakes Park,European Starling,Invasive,Healthy,Birds,2
+05/14/2022 11:20:00 AM,Queens,Fort Totten Park,Barn Swallow,Native,Healthy,Birds,1
+05/14/2022 12:00:00 PM,Brooklyn,Prospect Park,House Sparrow,Invasive,Injured,Birds,1
+05/14/2022 4:15:00 PM,Manhattan,Highbridge Park,European Starling,Invasive,Healthy,Birds,1
+05/14/2022 9:45:00 PM,Brooklyn,Prospect Park,Canada Goose,Native,Unhealthy,Birds,1
+05/15/2022 1:40:00 PM,Staten Island,Brookfield Park,Mallard Duck,Native,Healthy,Birds,11
+05/16/2022 8:30:00 AM,Queens,Hoyt Playground,Rock Dove,Native,Unhealthy,Birds,1
+05/18/2022 10:00:00 AM,Brooklyn,Marine Park,Loon (Unknown),Native,DOA,Birds,1
+05/18/2022 4:16:00 PM,Manhattan,Central Park,House Sparrow,Native,Healthy,Birds,1
+05/19/2022 10:15:00 AM,Staten Island,Clove Lakes Park,Great Egret,Native,Healthy,Birds,1
+05/19/2022 1:40:00 PM,Bronx,Van Cortlandt Park,Northern Bobwhite,Native,Healthy,Birds,1
+05/19/2022 2:30:00 PM,Bronx,Van Cortlandt Park,Mallard Duck,Native,Healthy,Birds,2
+05/20/2022 12:30:00 PM,Bronx,Poe Park,Rock Dove,Native,Injured,Birds,1
+05/20/2022 1:00:00 PM,Staten Island,Latourette Park,Parakeet (Unknown),Domestic,Healthy,Birds,0
+05/20/2022 1:40:00 PM,Manhattan,Morningside Park,Domestic Duck,Domestic,Healthy,"Domestic, Birds",0
+05/21/2022 9:00:00 AM,Manhattan,Central Park,Canada Goose,Native,Injured,Birds,1
+05/21/2022 11:00:00 AM,Brooklyn,Shore Park and Parkway,Herring Gull,Native,Injured,Birds,1
+05/22/2022 8:00:00 AM,Bronx,Pelham Bay Park,American Robin,Native,Healthy,Birds,1
+05/23/2022 10:40:00 AM,Manhattan,Central Park,Bird (Unknown),N/A,Injured,Birds,0
+05/23/2022 12:30:00 PM,Brooklyn,Maria Hernandez Park,Chicken,Domestic,Healthy,Birds,0
+05/25/2022 10:30:00 AM,Staten Island,Freshkills Park,Herring Gull,Native,Injured,Birds,1
+05/25/2022 12:50:00 PM,Queens,Al Oerter Recreation Center,Rock Dove,Native,Unhealthy,Birds,0
+05/25/2022 4:21:00 PM,Queens,Alley Pond Park,Mute Swan,Invasive,DOA,Birds,0
+05/25/2022 4:25:00 PM,Queens,"Phil ""Scooter"" Rizzuto Park",European Starling,Native,Healthy,Birds,1
+05/26/2022 1:00:00 PM,Brooklyn,Marine Park,Gull (Unknown),Native,Injured,Birds,0
+05/27/2022 10:00:00 AM,Bronx,Pelham Bay Park,Sun Conure,Exotic,Healthy,Birds,1
+05/27/2022 10:20:00 AM,Staten Island,Clove Lakes Park,Eastern Screech Owl,Native,Healthy,Raptors,1
+05/27/2022 12:00:00 PM,Manhattan,Central Park,Blue Jay,Native,Healthy,Birds,1
+05/28/2022 12:06:00 PM,Brooklyn,Forth Greene Park,Mourning Dove,Native,Healthy,Birds,1
+05/30/2022 10:30:00 AM,Queens,Little Bay Park,Canada Goose,Native,Injured,Birds,0
+05/30/2022 11:15:00 AM,Queens,Rockaway Beach and Boardwalk,Killdeer,Native,Healthy,Birds,1
+06/01/2022 10:00:00 AM,Manhattan,Riverside Park,Canada Goose,Native,Injured,Birds,1
+06/01/2022 10:00:00 AM,Manhattan,Central Park,European Starling,Invasive,Healthy,Birds,1
+06/01/2022 11:00:00 AM,Brooklyn,Marine Park,Laughing Gull,Native,Healthy,Birds,1
+06/01/2022 5:30:00 PM,Queens,Kissena Park,Mute Swan,Invasive,Healthy,Birds,1
+06/02/2022 11:30:00 AM,Manhattan,Randall's Island Park,Canada Goose,Native,Injured,Birds,1
+06/03/2022 12:03:00 PM,Queens,Roy Wilkins Recreation Center,Canada Goose,Native,Healthy,Birds,1
+06/03/2022 1:45:00 PM,Manhattan,Central Park,Canada Goose,Native,Unhealthy,Birds,1
+06/04/2022 2:30:00 AM,Queens,Flushing Meadows Corona Park,Raptor (Unknown),Native,Injured,Raptors,0
+06/04/2022 2:00:00 PM,Bronx,Pelham Bay Park,Mallard Duck,Native,Healthy,Birds,3
+06/04/2022 3:00:00 PM,Brooklyn,Prospect Park,Mute Swan,Invasive,Injured,Birds,1
+06/05/2022 10:37:00 AM,Bronx,Pelham Bay Park,European Starling,Native,Healthy,Birds,1
+06/05/2022 11:35:00 AM,Queens,Flushing Meadows Corona Park,Red-tailed Hawk,Native,N/A,Raptors,0
+06/05/2022 12:00:00 PM,Staten Island,Greenbelt Recreation Center,Rock Dove,Native,Healthy,Birds,0
+06/05/2022 12:00:00 PM,Manhattan,Central Park,Canada Goose,Native,Healthy,Birds,0
+06/05/2022 2:00:00 PM,Brooklyn,Prospect Park,Bird (Unknown),N/A,Injured,Birds,0
+06/05/2022 2:45:00 PM,Bronx,Van Cortlandt Park,Red-tailed Hawk,Native,Unhealthy,Raptors,1
+06/06/2022 12:30:00 PM,Bronx,Pelham Bay Park,American Kestrel,Native,Healthy,Raptors,1
+06/06/2022 2:10:00 PM,Manhattan,Riverside Park,Red-tailed Hawk,Native,Healthy,Raptors,1
+06/07/2022 9:35:00 AM,Manhattan,Inwood Hill Park,Chicken,Domestic,Injured,Birds,1
+06/07/2022 12:40:00 PM,Queens,Fort Totten Park,American Robin,Native,Healthy,Birds,1
+06/08/2022 8:30:00 AM,Manhattan,Central Park,Peregrine Falcon,Native,Injured,Raptors,1
+06/08/2022 12:30:00 PM,Queens,Forest Park,American Robin,Native,Injured,Birds,1
+06/08/2022 2:00:00 PM,Staten Island,Willowbrook Park,Canada Goose,Native,Healthy,Birds,1
+06/08/2022 6:20:00 PM,Bronx,Pelham Bay Park,Herring Gull,Native,Unhealthy,Birds,1
+06/09/2022 7:30:00 AM,Staten Island,Conference House Park,Herring Gull,Native,DOA,Birds,1
+06/09/2022 9:40:00 AM,Queens,Rockaway Beach and Boardwalk,Greater Shearwater,Native,Unhealthy,Birds,1
+06/09/2022 1:00:00 PM,Queens,Flushing Meadows Corona Park,Red-Tailed Hawk,Native,Healthy,Raptors,1
+06/09/2022 2:30:00 PM,Manhattan,Fort Tryon Park,Lovebird,Exotic,Healthy,Birds,3
+06/09/2022 5:30:00 PM,Brooklyn,Prospect Park,Mute Swan,Invasive,Injured,Birds,0
+06/09/2022 5:30:00 PM,Manhattan,Arsenal North,Red-tailed Hawk,Native,Healthy,Raptors,1
+06/09/2022 9:00:00 PM,Staten Island,Wolfe's Pond Park,Bird (Unknown),Native,Injured,Birds,0
+06/10/2022 8:30:00 AM,Staten Island,Wolfe's Pond Park,Mute Swan,Invasive,Injured,Birds,1
+06/10/2022 9:30:00 AM,Brooklyn,Kaiser Park,Brant,Native,Injured,Birds,1
+06/10/2022 9:30:00 AM,Brooklyn,Kaiser Park,Brant,Native,Injured,Birds,1
+06/10/2022 10:00:00 AM,Manhattan,Riverside Park,Peregrine Falcon,Native,Healthy,Raptors,1
+06/10/2022 11:30:00 AM,Brooklyn,"2930 w fifth st, Coney Island",Peregrine Falcon,Native,Injured,Raptors,0
+06/10/2022 12:00:00 PM,Staten Island,Blue Heron Park,American Robin,Native,Healthy,Birds,2
+06/10/2022 2:00:00 PM,Staten Island,Wolfe's Pond Park,Killdeer,Native,Healthy,Birds,1
+06/10/2022 2:00:00 PM,Manhattan,Central Park,Red-tailed Hawk,Native,Healthy,Raptors,1
+06/11/2022 11:20:00 AM,Staten Island,Lyons Pool Recreation Center,Barn Swallow,Native,Healthy,Birds,2
+06/11/2022 3:00:00 PM,Brooklyn,Prospect Park,American Robin,Native,Injured,Birds,1
+06/12/2022 2:30:00 PM,Manhattan,Central Park,Canada Goose,Native,Injured,Birds,2
+06/13/2022 12:45:00 PM,Brooklyn,Green Central Knoll,Chukar,Domestic,Unhealthy,"Birds, Domestic",1
+06/13/2022 6:15:00 PM,Staten Island,Ingram Woods,Wild Turkey,Native,Injured,Birds,1
+06/14/2022 12:00:00 PM,Manhattan,Central Park,Canada Goose,Native,Healthy,Birds,1
+06/14/2022 6:30:00 PM,Manhattan,Central Park,House Sparrow,Invasive,Unhealthy,Birds,1
+06/15/2022 7:30:00 AM,Brooklyn,Prospect Park,Wood Duck,Native,Healthy,Birds,2
+06/15/2022 2:30:00 PM,Manhattan,Riverside Park,Red-tailed Hawk,Native,DOA,Raptors,1
+06/15/2022 6:00:00 PM,Manhattan,Inwood Hill Park,Bird (Unknown),Native,Unhealthy,Birds,0
+06/16/2022 9:30:00 AM,Manhattan,Inwood Hill Park,Baltimore Oriole,Native,DOA,Birds,1
+06/16/2022 1:00:00 PM,Staten Island,Clove Lakes Park,Night Heron (Unknown),Native,Injured,Birds,0
+06/16/2022 2:20:00 PM,Manhattan,35th Street,Herring Gull,Native,Unhealthy,Birds,1
+06/18/2022 10:00:00 AM,Queens,Flushing Meadows Corona Park,Red-tailed Hawk,Native,Healthy,Raptors,1
+06/19/2022 10:00:00 AM,Queens,Little Bay Park,Canada Goose,Native,Injured,Birds,0
+06/19/2022 10:45:00 AM,Queens,Alley Pond Park,Mute Swan,Invasive,Healthy,Birds,1
+06/21/2022 10:00:00 AM,Brooklyn,Bushwick Inlet Park,Bird (Unknown),Native,Healthy,Birds,1
+06/21/2022 12:00:00 PM,Manhattan,Tompkins Square Park,American Kestrel,Native,Healthy,Raptors,1
+06/21/2022 4:00:00 PM,Brooklyn,McCarren Park,Red-tailed Hawk,Native,Healthy,Raptors,1
+06/21/2022 10:30:00 PM,Brooklyn,McCarren Park,Red-tailed Hawk,Native,Healthy,Raptors,1
+06/24/2022 12:00:00 PM,Queens,Astoria Park,Rock Dove,Native,Injured,Birds,0
+06/25/2022 12:30:00 PM,Queens,Alley Pond Park,American Robin,Native,Healthy,Birds,1
+06/25/2022 1:00:00 PM,Manhattan,J. Hood Wright Park,House Sparrow,Native,,Birds,1
+06/26/2022 4:00:00 PM,Brooklyn,Brooklyn Bridge Park,American Black Duck,Native,Healthy,Birds,1
+06/27/2022 10:30:00 AM,Queens,Queensboro Hall,Red-tailed Hawk,Native,N/A,Birds,0
+06/27/2022 3:10:00 PM,Queens,Queensboro Hall,Rock Dove,Native,Healthy,Birds,1
+06/28/2022 4:30:00 PM,Bronx,Siren Slope,Chicken,Domestic,Healthy,"Domestic, Birds",2
+06/29/2022 8:00:00 AM,Staten Island,Wolfe's Pond Park,Mute Swan,Invasive,Unhealthy,Birds,1
+06/29/2022 4:00:00 PM,Bronx,Pelham Bay Park,Canada Goose,Native,Injured,Birds,0
+06/29/2022 5:00:00 PM,Brooklyn,Fort Greene Park,American Kestrel,Native,Injured,Raptors,0
+06/30/2022 11:00:00 AM,Manhattan,Riverside Park,Red-tailed Hawk,Native,Injured,Raptors,1
+07/01/2022 4:45:00 PM,Brooklyn,Betsy Head Park,Laughing Gull,Native,Injured,Birds,0
+07/02/2022 7:50:00 AM,Queens,Captain Tilly Park,Canada Goose,Native,Unhealthy,Birds,3
+07/02/2022 5:15:00 PM,Bronx,Pelham Bay Park,Ring-Billed Gull,Native,Injured,Birds,1
+07/04/2022 1:30:00 PM,Manhattan,Tompkins Square Park,Red-tailed Hawk,Native,DOA,Raptors,1
+07/04/2022 4:30:00 PM,Queens,Rockaway Beach and Boardwalk,Double-crested Cormorant,Native,Injured,Birds,1
+07/05/2022 2:20:00 PM,Bronx,Van Cortlandt Park,Chicken,Domestic,Healthy,"Birds, Domestic",1
+07/05/2022 3:00:00 PM,Brooklyn,Fort Greene Park,American Robin,Native,Injured,Birds,1
+07/05/2022 6:00:00 PM,Brooklyn,Rappaport Playground,American Crow,Native,Injured,Birds,0
+07/06/2022 8:30:00 AM,Brooklyn,McCarren Park,Red-tailed Hawk,Native,Injured,Raptors,0
+07/06/2022 8:30:00 AM,Brooklyn,McCarren Park,Owl (Unknown),Native,Injured,Raptors,0
+07/06/2022 9:00:00 AM,Manhattan,Central Park,Double-Crested Cormorant,Native,Healthy,Birds,1
+07/06/2022 10:00:00 AM,Manhattan,Central Park,Double-Crested Cormorant,Native,Unhealthy,Birds,1
+07/06/2022 10:34:00 AM,Manhattan,Mary O'Connor Playground,Rock Dove,Native,Injured,Birds,1
+07/06/2022 11:15:00 AM,Staten Island,Lemon Creek Park,Double-Crested Cormorant,Native,Injured,Birds,1
+07/06/2022 1:20:00 PM,Staten Island,Blue Heron Park,Chimney Swift,Native,Healthy,Birds,2
+07/06/2022 3:00:00 PM,Brooklyn,Grand Army Plaza,Mallard Duck,Native,N/A,Birds,0
+07/06/2022 4:15:00 PM,Brooklyn,Russell Pedersen Playground,Mourning Dove,Native,Injured,Birds,1
+07/07/2022 10:00:00 AM,Manhattan,Central Park,American Robin,Native,Healthy,Birds,1
+07/07/2022 10:52:00 AM,Staten Island,Wolfe's Pond Park,Parakeet (Unknown),Domestic,Healthy,"Domestic, Birds",1
+07/07/2022 10:55:00 AM,Queens,Captain Tilly Park,Mallard Duck,Native,Injured,Birds,1
+07/07/2022 3:00:00 PM,Staten Island,Wolfe's Pond Park,Killdeer,Native,Healthy,Birds,1
+07/08/2022 8:45:00 AM,Bronx,Bronx Park,Red-tailed Hawk,Native,Unhealthy,Raptors,1
+07/08/2022 2:35:00 PM,Bronx,Van Cortlandt Park,Chicken,Domestic,Healthy,"Birds, Domestic",1
+07/08/2022 7:30:00 PM,Brooklyn,Prospect Park,American Robin,Native,Healthy,Birds,1
+07/09/2022 12:00:00 PM,Manhattan,Central Park,Rock Dove,Native,DOA,Birds,1
+07/09/2022 12:30:00 PM,Manhattan,Morningside Park,Canada Goose,Native,Unhealthy,Birds,5
+07/09/2022 5:13:00 PM,Queens,Catharine Turner Richardson Park,Red-tailed Hawk,Native,Injured,Raptors,0
+07/10/2022 10:00:00 AM,Brooklyn,Prospect Park,Mute Swan,Invasive,Injured,Birds,1
+07/10/2022 12:00:00 PM,Brooklyn,J.J. Byrne Playground,House Sparrow,Native,DOA,Birds,1
+07/10/2022 12:30:00 PM,Queens,Rockaway Beach and Boardwalk,Black-crowned Night Heron,Native,Injured,Birds,1
+07/12/2022 10:00:00 AM,Brooklyn,Prospect Park,Mute Swan,Invasive,Unhealthy,Birds,1
+07/13/2022 10:00:00 AM,Brooklyn,McCarren Park,Red-tailed Hawk,Native,Healthy,Raptors,1
+07/13/2022 3:15:00 PM,Queens,Forest Park,European Starling,Native,Healthy,Birds,1
+07/14/2022 9:10:00 AM,Manhattan,Central Park,Budgerigar,Domestic,Healthy,"Domestic, Birds",0
+07/14/2022 9:20:00 AM,Manhattan,Central Park,Great Egret,Native,Injured,Birds,0
+07/14/2022 9:30:00 AM,Manhattan,Central Park,Great Egret,Native,Injured,Birds,1
+07/14/2022 9:45:00 AM,Bronx,Van Cortlandt Park,Wood Duck,Native,Healthy,Birds,2
+07/14/2022 2:00:00 PM,Queens,Flushing Meadows Corona Park,Northern Mockingbird,Native,Healthy,Birds,1
+07/15/2022 12:00:00 PM,Manhattan,Hudson Park,Double-Crested Cormorant,Native,Injured,Birds,1
+07/15/2022 6:49:00 PM,Queens,Brookville Park,Great Egret,Native,Injured,Birds,0
+07/16/2022 12:00:00 PM,Brooklyn,Prospect Park,American Robin,Native,Healthy,Birds,1
+07/17/2022 9:30:00 AM,Manhattan,Central Park,Canada Goose,Native,Healthy,Birds,1
+07/17/2022 12:10:00 PM,Brooklyn,Benson Playground,Great Horned Owl,Native,DOA,Raptors,1
+07/17/2022 12:30:00 PM,Brooklyn,John J Carty Park,Double-crested Cormorant,Native,Unhealthy,Birds,1
+07/17/2022 4:30:00 PM,Queens,Rockaway Beach and Boardwalk,Cory's Shearwater,Native,Unhealthy,Birds,1
+07/17/2022 9:30:00 PM,Queens,Alley Pond Park,Mute Swan,Invasive,Injured,Birds,0
+07/20/2022 9:00:00 AM,Manhattan,Central Park,Mallard Duck,Native,Injured,Birds,0
+07/20/2022 10:00:00 AM,Brooklyn,Marine Park,Budgerigar,Domestic,Healthy,"Domestic, Birds",1
+07/21/2022 7:30:00 AM,Staten Island,Wolfe's Pond Park,Mute Swan,Invasive,Injured,Birds,1
+07/21/2022 11:30:00 AM,Brooklyn,Spring Creek Park,Mallard Duck,Native,Healthy,Birds,1
+07/22/2022 3:30:00 AM,Queens,Rockaway Beach and Boardwalk,Duck (Unknown),Native,,Birds,0
+07/22/2022 9:30:00 AM,Staten Island,Seguine Mansion,Indian Peafowl,Exotic,Injured,Birds,0
+07/23/2022 10:30:00 AM,Bronx,Pelham Bay Park,Rock Dove,Native,Healthy,Birds,1
+07/24/2022 10:20:00 AM,Queens,Bayswater Park,Mute Swan,Invasive,Injured,Birds,0
+07/25/2022 3:20:00 PM,Staten Island,Faber Pool and Park,House Sparrow,Native,Healthy,Birds,1
+07/25/2022 3:50:00 PM,Manhattan,Central Park,Red-tailed Hawk,Native,Injured,Raptors,1
+07/26/2022 12:00:00 PM,Brooklyn,Prospect Park,Mourning Dove,Native,Injured,Birds,1
+07/27/2022 12:40:00 PM,Manhattan,Central Park,Red-tailed Hawk,Native,Healthy,Raptors,1
+07/27/2022 2:15:00 PM,Brooklyn,Marine Park,House sparrow,Native,Injured,Birds,1
+07/28/2022 9:00:00 AM,Staten Island,Wolfe's Pond Park,Mute Swan,Invasive,Healthy,Birds,1
+07/28/2022 9:30:00 AM,Bronx,Crotona Park,House Sparrow,Native,Healthy,Birds,1
+07/28/2022 6:30:00 PM,Staten Island,Midland Beach,Double-crested Cormorant,Native,Unhealthy,Birds,2
+07/29/2022 3:00:00 PM,Manhattan,Fort Washington Park,Canada Goose,Native,Healthy,Birds,1
+07/29/2022 3:30:00 PM,Brooklyn,Prospect Park,Mourning Dove,Native,Injured,Birds,0
+07/29/2022 4:50:00 PM,Brooklyn,Prospect Park,Mute Swan,Invasive,Injured,Birds,1
+07/30/2022 9:30:00 AM,Manhattan,Hudson River Park,Herring Gull,Native,Healthy,Birds,3
+07/31/2022 9:45:00 AM,Queens,Rockaway Beach and Boardwalk,Double-crested Cormorant,Native,Injured,Birds,1
+08/01/2022 1:50:00 PM,Manhattan,Hudson River Park,Herring Gull,Native,Healthy,Birds,4
+08/02/2022 12:30:00 PM,Brooklyn,Marine Park,Mocking Bird,Native,Healthy,Birds,1
+08/02/2022 3:25:00 PM,Bronx,Haffen Park,Mourning Dove,Native,Healthy,Birds,1
+08/03/2022 8:30:00 AM,Queens,Beach 30th Street Playground,Herring Gull,Native,Injured,Birds,0
+08/05/2022 11:40:00 AM,Queens,Flushing Meadows Corona Park,American Crow,Native,DOA,Birds,1
+08/08/2022 11:00:00 AM,Bronx,Crotona Park,Rock Dove,Native,Healthy,Birds,3
+08/08/2022 11:00:00 AM,Brooklyn,Coney Island Beach &amp; Boardwalk,Domestic Dove,Domestic,Healthy,"Birds, Domestic",1
+08/08/2022 2:00:00 PM,Staten Island,Ocean Breeze Park,American Crow,Native,Unhealthy,Birds,1
+08/08/2022 3:30:00 PM,Staten Island,Schmul Park,Canada Goose,Native,Injured,Birds,1
+08/09/2022 8:30:00 AM,Brooklyn,Marine Park,Osprey,Native,Healthy,Raptors,1
+08/09/2022 9:00:00 AM,Queens,Cunningham Park,European Starling,Native,Injured,Birds,1
+08/09/2022 11:00:00 AM,Queens,Alley Pond Park,Mute Swan,Invasive,Unhealthy,Birds,1
+08/10/2022 9:00:00 AM,Brooklyn,Brooklyn Bridge Park,Gull (Unknown),Native,Injured,Birds,0
+08/10/2022 3:30:00 PM,Brooklyn,Fort Greene Park,Rock Dove,Native,Unhealthy,Birds,1
+08/10/2022 8:00:00 PM,Brooklyn,Cadman Plaza Park,Virginia Rail,Native,N/A,Birds,0
+08/10/2022 11:30:00 PM,Manhattan,Central Park,Mallard Duck,Native,Injured,Birds,0
+08/11/2022 8:45:00 AM,Bronx,Van Cortlandt Park,Wood Duck,Native,Healthy,Birds,1
+08/11/2022 8:15:00 PM,Staten Island,Lemon Creek Park,Indian Peafowl,Exotic,Injured,Birds,1
+08/12/2022 9:30:00 AM,Staten Island,Ocean Breeze Track & Field Athletic Complex,Rock Dove,Native,Unhealthy,Birds,1
+08/12/2022 12:00:00 PM,Brooklyn,Prospect Park,Mute Swan,Invasive,Injured,Birds,1
+08/13/2022 8:30:00 AM,Brooklyn,Classon Playground,Chicken,N/A,Healthy,"Birds, Domestic",1
+08/13/2022 11:00:00 AM,Queens,Beach 59th St Playground,Sanderling,Native,Injured,Birds,1
+08/13/2022 11:00:00 PM,Manhattan,Inwood Hill Park,Red-tailed Hawk,Native,Healthy,Raptors,1
+08/14/2022 3:00:00 PM,Queens,Forest Park,European Starling,Native,Healthy,Birds,1
+08/15/2022 9:35:00 AM,Queens,Alley Pond Park,Mute Swan,Invasive,Healthy,Birds,1
+08/15/2022 12:00:00 PM,Manhattan,Central Park,Canada Goose,Native,Healthy,Birds,1
+08/15/2022 1:30:00 PM,Staten Island,South Beach Wetlands,Double-crested Cormorant,Native,Injured,Birds,1
+08/15/2022 2:00:00 PM,Bronx,Van Cortlandt Park,Cooper's Hawk,Native,Injured,Raptors,1
+08/15/2022 2:15:00 PM,Staten Island,Oakwood Beach,Canada Goose,Native,Injured,Birds,1
+08/15/2022 4:55:00 PM,Manhattan,East River Esplanade,Herring Gull,Native,Injured,Birds,1
+08/16/2022 3:30:00 PM,Staten Island,Blue Heron Park,Chimney Swift,Native,Healthy,Birds,2
+08/17/2022 9:30:00 AM,Brooklyn,Prospect Park,Canada Goose,Native,Unhealthy,Birds,2
+08/17/2022 1:00:00 PM,Bronx,Van Cortlandt Park,Canada Goose,Native,Unhealthy,Birds,1
+08/17/2022 5:35:00 PM,Bronx,Pelham Bay Park,Great Black-backed gull,Native,Unhealthy,Birds,1
+08/18/2022 9:00:00 AM,Manhattan,Riverside Park,Canada Goose,Native,Healthy,Birds,2
+08/18/2022 10:00:00 AM,Staten Island,Franklin D. Roosevelt Boardwalk and Beach,Great Black-backed Gull,Native,Injured,Birds,1
+08/18/2022 5:20:00 PM,Staten Island,Clove Lakes Park,Canada Goose,Native,Healthy,Birds,1
+08/19/2022 11:45:00 AM,Brooklyn,Highland Park,Mourning Dove,Native,DOA,Birds,1
+08/20/2022 7:00:00 PM,Manhattan,Central Park,Double-Crested Cormorant,Native,N/A,Birds,0
+08/21/2022 11:30:00 AM,Staten Island,Ocean Breeze Park,Canada Goose,Native,Healthy,Birds,1
+08/21/2022 12:50:00 PM,Brooklyn,Betsy Head Pool,Laughing Gull,Native,Injured,Birds,1
+08/21/2022 3:30:00 PM,Queens,Astoria Park,Canada Goose,Native,Injured,Birds,1
+08/22/2022 8:50:00 AM,Brooklyn,Brooklyn Bridge Park,Double-Crested Cormorant,Native,Unhealthy,Birds,1
+08/22/2022 4:15:00 PM,Manhattan,Central Park,Double-Crested Cormorant,Native,Unhealthy,Birds,1
+08/23/2022 9:00:00 AM,Brooklyn,Betsy Head Park,Herring Gull,Native,Injured,Birds,1
+08/23/2022 3:15:00 PM,Brooklyn,Prospect Park,Rock Dove,Native,Injured,Birds,1
+08/24/2022 9:10:00 AM,Bronx,Colucci Playground,Canada Goose,Native,Injured,Birds,1
+08/24/2022 10:00:00 AM,Manhattan,Central Park,Mallard Duck,Native,Injured,Birds,1
+08/24/2022 10:00:00 AM,Manhattan,Central Park,Mallard Duck,Native,Unhealthy,Birds,0
+08/24/2022 5:45:00 PM,Manhattan,Randall's Island Park,Canada Goose,Native,Injured,Birds,1
+08/25/2022 12:15:00 PM,Bronx,Van Cortlandt Park,Bird (Unknown),N/A,Injured,Birds,0
+08/25/2022 5:30:00 PM,Manhattan,Sherman Creek,Canada Goose,Native,Unhealthy,Birds,0
+08/26/2022 10:30:00 AM,Queens,Russell Sage Playground,Great Egret,Native,Healthy,Birds,1
+08/26/2022 3:50:00 PM,Queens,Alley Pond Park,Great Egret,Native,Healthy,Birds,1
+08/27/2022 9:15:00 AM,Manhattan,Sunshine Playground,American Kestrel,Native,Healthy,Raptors,1
+08/27/2022 11:00:00 AM,Brooklyn,Fort Greene Park,Rock Dove,Native,Injured,Birds,1
+08/28/2022 11:20:00 AM,Manhattan,Central Park,Mallard Duck,Native,Injured,Birds,0
+08/28/2022 1:00:00 PM,Manhattan,Hudson Park,Herring Gull,Native,Healthy,Birds,2
+08/28/2022 4:30:00 PM,Manhattan,Central Park,Yellow Warbler,Native,Healthy,Birds,1
+08/28/2022 4:30:00 PM,Manhattan,Central Park,Yellow Warbler,Native,Unhealthy,Birds,1
+08/28/2022 4:30:00 PM,Manhattan,Central Park,Yellow Warbler,Native,DOA,Birds,1
+08/28/2022 4:45:00 PM,Staten Island,Seaside Wildlife Nature Park,Rock Dove,Native,Unhealthy,Birds,1
+08/29/2022 12:30:00 AM,Manhattan,Central Park,Canada Goose,Native,Unhealthy,Birds,4
+08/29/2022 8:30:00 AM,Manhattan,Central Park,Canada Goose,Native,Injured,Birds,1
+08/29/2022 10:20:00 AM,Staten Island,Great Kills Park,Double-Crested Cormorant,Native,Injured,Birds,1
+08/29/2022 11:00:00 AM,Manhattan,Central Park,Mallard Duck,Native,Injured,Birds,0
+08/29/2022 4:45:00 PM,Staten Island,Seaside Wildlife Nature Park,Canada Goose,Native,Injured,Birds,1
+08/30/2022 9:00:00 AM,Manhattan,Randall's Island Park,Canada Goose,Native,Unhealthy,Birds,1
+08/30/2022 11:00:00 AM,Bronx,Van Cortlandt Park,Mallard Duck,Native,Injured,Birds,1
+08/30/2022 2:30:00 PM,Brooklyn,Brooklyn Bridge Park,Canada Goose,Native,Healthy,Birds,1
+08/30/2022 6:10:00 PM,Staten Island,Franklin D. Roosevelt Boardwalk and Beach,Herring Gull,Native,Injured,Birds,1
+08/31/2022 11:00:00 AM,Brooklyn,Brooklyn Bridge Park,Mourning Dove,Native,Unhealthy,Birds,1
+08/31/2022 11:00:00 AM,Staten Island,Ocean Breeze Park,Canada Goose,Native,Unhealthy,Birds,1
+08/31/2022 12:30:00 PM,Staten Island,Conference House Park,Herring Gull,Native,Injured,Birds,1
+08/31/2022 4:15:00 PM,Manhattan,Inwood Hill Park,Canada Goose,Native,Injured,Birds,0
+09/01/2022 9:10:00 AM,Queens,Little Bay Park,Canada Goose,Native,Injured,Birds,0
+09/01/2022 12:30:00 PM,Manhattan,Marcus Garvey Park,Canada Goose,Native,Unhealthy,Birds,1
+09/02/2022 2:45:00 PM,Brooklyn,Brooklyn Bridge Park,Mourning Dove,Native,Healthy,Birds,1
+09/02/2022 5:00:00 PM,Brooklyn,Marine Park,Gull (Unknown),Native,Healthy,Birds,4
+09/03/2022 9:40:00 AM,Bronx,Pelham Bay Park,Ring-Billed Gull,Native,Injured,Birds,1
+09/03/2022 1:00:00 PM,Brooklyn,Brooklyn Bridge Park,Gull (Unknown),Native,Injured,Birds,1
+09/03/2022 2:00:00 PM,Staten Island,Willowbrook Park,Canada Goose,Native,Unhealthy,Birds,1
+09/03/2022 2:30:00 PM,Staten Island,Franklin D. Roosevelt Boardwalk and Beach,Great Black-backed Gull,Native,Unhealthy,Birds,1
+09/04/2022 3:30:00 PM,Brooklyn,Fresh Creek Nature Preserve,Rock Dove,Native,Injured,Birds,1
+09/05/2022 8:30:00 AM,Staten Island,Wolfe's Pond Park,Mute Swan,Invasive,Healthy,Birds,1
+09/05/2022 11:45:00 AM,Queens,Dunningham Triangle,Rock Dove,Native,Unhealthy,Birds,1
+09/05/2022 2:00:00 PM,Brooklyn,Prospect Park,Canada Goose,Native,Injured,Birds,1
+09/05/2022 6:30:00 PM,Staten Island,Franklin D. Roosevelt Boardwalk and Beach,Tern (Unknown),Native,Unhealthy,Birds,1
+09/06/2022 11:45:00 AM,Staten Island,Conference House Park,Herring Gull,Native,Injured,Birds,1
+09/06/2022 1:45:00 PM,Queens,Captain Tilly Park,Canada Goose,Native,Unhealthy,Birds,1
+09/06/2022 2:30:00 PM,Brooklyn,Brooklyn Bridge Park,Gull (Unknown),Native,Injured,Birds,1
+09/07/2022 10:00:00 AM,Manhattan,Randall's Island Park,Canada Goose,Native,Healthy,Birds,1
+09/07/2022 10:00:00 AM,Manhattan,Randall's Island Park,Herring Gull,Native,Healthy,Birds,2
+09/07/2022 1:00:00 PM,Manhattan,Sherman Creek,Canada Goose,Native,Healthy,Birds,1
+09/07/2022 4:00:00 PM,Bronx,Pelham Bay Park,Red-tailed Hawk,Native,Injured,Birds,1
+09/08/2022 11:30:00 AM,Brooklyn,Prospect Park,Canada Goose,Native,Healthy,Birds,1
+09/08/2022 11:30:00 AM,Brooklyn,Marine Park,Herring Gull,Native,Healthy,Birds,1
+09/09/2022 9:00:00 AM,Brooklyn,Brooklyn Bridge Park,Canada Goose,Native,Injured,Birds,1
+09/09/2022 9:00:00 AM,Brooklyn,Brooklyn Bridge Park,Yellow Warbler,Native,Injured,Birds,1
+09/09/2022 9:00:00 AM,Brooklyn,Brooklyn Bridge Park,Thrush (Unknown),Native,Injured,Birds,1
+09/09/2022 11:49:00 AM,Queens,B116 street Boardwalk,Herring Gull,Native,Injured,Birds,1
+09/10/2022 10:15:00 AM,Brooklyn,Prospect Park,Mute Swan,Invasive,Unhealthy,Birds,1
+09/11/2022 10:00:00 AM,Manhattan,Central Park,Canada Goose,Native,Healthy,Birds,1
+09/11/2022 12:07:00 PM,Queens,Rockaway Beach and Boardwalk,Herring Gull,Native,Injured,Birds,1
+09/12/2022 9:45:00 AM,Brooklyn,Canarsie Park,Yellow-crowned Night Heron,Native,Injured,Birds,1
+09/12/2022 9:00:00 PM,Brooklyn,Prospect Park,Great Blue Heron,Native,Injured,Birds,0
+09/13/2022 10:45:00 AM,Brooklyn,Coney Island Beach &amp; Boardwalk,Domestic Dove,Domestic,Healthy,"Domestic, Birds",1
+09/13/2022 12:00:00 PM,Brooklyn,Prospect Park,Canada Goose,Native,Unhealthy,Birds,1
+09/14/2022 12:00:00 PM,Queens,Beach Channel Playground,Yellow-crowned night heron,Native,Healthy,Birds,1
+09/14/2022 5:36:00 PM,Queens,Forest Park,Chicken,Domestic,Injured,"Domestic, Birds",1
+09/16/2022 1:15:00 PM,Queens,Kissena Park,Rock Dove,Native,Unhealthy,Birds,1
+09/16/2022 1:40:00 PM,Queens,Rockaway Beach and Boardwalk,Herring Gull,Native,Injured,Birds,1
+09/16/2022 2:10:00 PM,Staten Island,Wolfe's Pond Park,Mallard Duck,Native,Injured,Birds,1
+09/16/2022 4:45:00 PM,Manhattan,Tompkins Square Park,Sharp-shinned Hawk,Native,Injured,Raptors,1
+09/16/2022 6:00:00 PM,Brooklyn,Marine Park,Herring Gull,Native,Healthy,Birds,1
+09/20/2022 10:00:00 AM,Manhattan,East River Esplanade,Mourning Dove,Native,Injured,Birds,1
+09/20/2022 10:15:00 AM,Manhattan,Central Park,Mallard Duck,Native,Injured,Birds,1
+09/21/2022 11:00:00 AM,Staten Island,Blue Heron Park,Mourning Dove,Native,Unhealthy,Birds,1
+09/24/2022 12:00:00 AM,Staten Island,Franklin D. Roosevelt Boardwalk and Beach,Rock Dove,Native,DOA,Birds,1
+09/24/2022 12:00:00 AM,Staten Island,Franklin D. Roosevelt Boardwalk and Beach,Herring Gull,Native,Injured,Birds,1
+09/24/2022 11:30:00 AM,Manhattan,Washington Square Park,Nighthawk,Native,Injured,Birds,1
+09/25/2022 12:15:00 PM,Brooklyn,Prospect Park,Great Blue Heron,Native,Injured,Birds,0
+09/25/2022 3:30:00 PM,Brooklyn,Prospect Park,Canada Goose,Native,Healthy,Birds,1
+09/25/2022 3:30:00 PM,Brooklyn,Prospect Park,Red-tailed Hawk,Native,Injured,Raptors,0
+09/26/2022 2:30:00 PM,Brooklyn,Prospect Park,Bird (Unknown),N/A,N/A,Birds,0
+09/26/2022 3:00:00 PM,Manhattan,Central Park,Canada Goose,Native,Unhealthy,Birds,5
+09/27/2022 11:25:00 AM,Manhattan,J. Hood Wright Park,Budgerigar,Domestic,Healthy,"Birds, Domestic",1
+09/28/2022 10:15:00 AM,Queens,Fort Totten Park,Northern Parula,Native,Healthy,Birds,1
+09/28/2022 4:15:00 PM,Queens,Captain Tilly Park,Canada Goose,Native,DOA,Birds,2
+09/28/2022 4:22:00 PM,Queens,Captain Tilly Park,Canada Goose,Native,Unhealthy,Birds,1
+09/29/2022 8:25:00 AM,Manhattan,J. Hood Wright Park,Common Yellowthroat,Native,Healthy,Birds,1
+09/29/2022 1:00:00 PM,Bronx,Van Cortlandt Park,Red-eyed Vireo,Native,Injured,Birds,1
+09/29/2022 2:45:00 PM,Brooklyn,Fort Greene Park,Northern Parula,Native,Injured,Birds,1
+09/30/2022 3:10:00 PM,Staten Island,Willowbrook Park,Canada Goose,Native,Unhealthy,Birds,1
+10/03/2022 1:30:00 PM,Bronx,NY Botanical Garden,Yellow-Bellied Sapsucker,Native,Injured,Birds,1
+10/04/2022 2:25:00 PM,Bronx,Bronx Park,Gray Catbird,Native,Injured,Birds,1
+10/06/2022 10:20:00 AM,Staten Island,Clove Lakes Park,Canada Goose,Native,Injured,Birds,1
+10/06/2022 11:00:00 AM,Brooklyn,Msgr. McGolrick Park,Rock Dove,Native,Injured,Birds,1
+10/06/2022 3:30:00 PM,Queens,Fort Totten Park,Eastern Towhee,Native,Healthy,Birds,1
+10/08/2022 11:40:00 AM,Queens,Fort Totten Park,Black-throated Blue Warbler,Native,Healthy,Birds,1
+10/09/2022 1:15:00 PM,Bronx,Van Cortlandt Park,Mourning Dove,Native,Unhealthy,Birds,1
+10/10/2022 11:50:00 AM,Staten Island,Blue Heron Park,Diamond Dove,Exotic,Healthy,Birds,2
+10/11/2022 8:00:00 AM,Brooklyn,Prospect Park,Domestic Duck,Domestic,Healthy,"Birds, Domestic",3
+10/12/2022 1:00:00 PM,Queens,Spring Creek Park Addition,American Bittern,Native,Healthy,Birds,1
+10/12/2022 1:45:00 PM,Bronx,Pelham Bay Park,Mute Swan,Invasive,N/A,Birds,0
+10/12/2022 2:00:00 PM,Brooklyn,Marine Park,Chukar,Exotic,Healthy,Birds,1
+10/12/2022 3:00:00 PM,Brooklyn,Fort Greene Park,Black-and-White Warbler,Native,DOA,Birds,1
+10/14/2022 2:30:00 PM,Bronx,Concrete Plant Park,Herring Gull,Native,Injured,Birds,1
+10/15/2022 9:00:00 AM,Bronx,Van Cortlandt Park,Canada Goose,Native,Unhealthy,Birds,1
+10/15/2022 11:45:00 AM,Manhattan,Inwood Hill Park,Black-capped Chickadee,Native,DOA,Birds,1
+10/16/2022 1:30:00 PM,Brooklyn,Marine Park,Fancy Dove,Domestic,Healthy,"Birds, Domestic",1
+10/16/2022 2:00:00 PM,Staten Island,Franklin D. Roosevelt Boardwalk and Beach,Herring Gull,Native,Injured,Birds,0
+10/16/2022 5:25:00 PM,Bronx,Soundview Park,Chicken,Domestic,Unhealthy,"Domestic, Birds",1
+10/16/2022 5:29:00 PM,Queens,Forest Park,Chicken,Domestic,DOA,"Domestic, Birds",2
+10/18/2022 12:00:00 PM,Brooklyn,Bushwick Inlet Park,Rock Dove,Native,DOA,Birds,1
+10/20/2022 10:30:00 AM,Staten Island,Blue Heron Park,Diamond Dove,Exotic,Healthy,Birds,1
+10/20/2022 12:30:00 PM,Brooklyn,Sarsfield Playground,Rock Dove,Native,DOA,Birds,1
+10/20/2022 1:00:00 PM,Bronx,Pelham Bay Park,Canada Goose,Native,Unhealthy,Birds,1
+10/20/2022 4:30:00 PM,Brooklyn,Prospect Park,Canada Goose,Native,Unhealthy,Birds,1
+10/21/2022 1:00:00 PM,Manhattan,Theodore Roosevelt Park,Red-tailed Hawk,Native,Injured,Raptors,1
+10/23/2022 1:30:00 PM,Bronx,Pelham Bay Park,Rock Dove,Domestic,Unhealthy,Birds,1
+10/23/2022 2:30:00 PM,Brooklyn,Prospect Park,Canada Goose,Native,Unhealthy,Birds,1
+10/27/2022 5:45:00 PM,Manhattan,Central Park,Red-Shouldered Hawk,Native,Injured,Raptors,1
+10/28/2022 4:00:00 PM,Manhattan,Central Park,Song Sparrow,Native,Injured,Birds,1
+10/29/2022 9:00:00 AM,Brooklyn,Fort Greene Park,American Woodcock,Native,Injured,Birds,1
+10/29/2022 9:15:00 AM,Brooklyn,Fort Greene Park,Dark-eyed Junco,Native,Injured,Birds,1
+10/29/2022 11:00:00 AM,Brooklyn,Shore Park and Parkway,Red-tailed Hawk,Native,DOA,Raptors,1
+10/29/2022 1:00:00 PM,Brooklyn,Prospect Park,Canada Goose,Native,Unhealthy,Birds,1
+10/29/2022 2:20:00 PM,Queens,Paul Raimonda Playground,Great Blue Heron,Native,Injured,Birds,1
+10/30/2022 2:30:00 PM,Bronx,Crotona Park,Blue Jay,Native,DOA,Birds,1
+10/30/2022 3:45:00 PM,Brooklyn,Prospect Park,Chukar,Domestic,Unhealthy,"Domestic, Birds",1
+11/02/2022 10:40:00 AM,Staten Island,Ocean Breeze Park,Mallard Duck,Native,Injured,Birds,0
+11/02/2022 3:15:00 PM,Manhattan,Hudson River Park,Canada Goose,Native,Injured,Birds,0
+11/03/2022 10:00:00 AM,Queens,Murray Playground,Green Heron,Native,Injured,Birds,0
+11/03/2022 12:00:00 PM,Queens,Sobelsohn Playground,White-throated sparrow,Native,Injured,Birds,1
+11/04/2022 4:40:00 PM,Staten Island,Franklin D. Roosevelt Boardwalk and Beach,Ring-billed gull,Native,Injured,Birds,1
+11/06/2022 3:25:00 PM,Manhattan,Harlem River Park,Red-tailed Hawk,Native,Injured,Raptors,0
+11/07/2022 9:10:00 AM,Queens,Rockaway Beach and Boardwalk,Northern Gannet,Native,Injured,Birds,0
+11/08/2022 7:30:00 AM,Manhattan,Riverside Park,Domestic Duck,Domestic,Healthy,Birds,0
+11/08/2022 11:00:00 AM,Manhattan,Central Park,Tufted Titmouse,Native,Healthy,Birds,2
+11/09/2022 9:00:00 AM,Manhattan,Bryant Park,American Woodcock,Native,Injured,Birds,1
+11/09/2022 3:00:00 PM,Queens,Kissena Park,Domestic Duck,Domestic,Healthy,"Domestic, Birds",1
+11/09/2022 4:00:00 PM,Brooklyn,Shore Parkway,Chicken,Domestic,Healthy,Birds,0
+11/10/2022 5:00:00 PM,Brooklyn,Prospect Park,Mallard Duck,Native,Injured,Birds,0
+11/11/2022 8:00:00 AM,Manhattan,J. Hood Wright Park,American Woodcock,Native,Injured,Birds,1
+11/12/2022 2:45:00 PM,Queens,Astoria Park,Red-tailed Hawk,Native,Injured,Birds,1
+11/12/2022 4:00:00 PM,Bronx,Givan Square,Chicken,Domestic,,"Domestic, Birds",2
+11/16/2022 12:30:00 PM,Manhattan,Riverside Park,Canada Goose,Native,Unhealthy,Birds,1
+11/16/2022 1:30:00 PM,Staten Island,Willowbrook Park,Canada Goose,Native,Injured,Birds,0
+11/18/2022 10:00:00 AM,Manhattan,Riverside Park,Duck (Unknown),Native,Injured,Birds,0
+11/18/2022 10:00:00 AM,Brooklyn,Prospect Park,Domestic Duck,Domestic,Healthy,"Birds, Domestic",6
+11/19/2022 12:45:00 PM,Brooklyn,Brooklyn Bridge Park,Cooper's Hawk,Native,Injured,Raptors,1
+11/19/2022 6:21:00 PM,Manhattan,Central Park,Canada Goose,Native,Injured,Birds,1
+11/20/2022 11:30:00 AM,Brooklyn,Sunset Park,Mute Swan,Invasive,Healthy,Birds,1
+11/21/2022 2:30:00 PM,Staten Island,Lemon Creek Park,Herring Gull,Native,DOA,Birds,1
+11/21/2022 4:00:00 PM,Brooklyn,Brooklyn Bridge Park,Canada Goose,Native,Unhealthy,Birds,1
+11/21/2022 4:00:00 PM,Brooklyn,Brooklyn Bridge Park,Canada Goose,Native,Unhealthy,Birds,1
+11/22/2022 12:00:00 PM,Manhattan,Central Park,Canada Goose,Native,Unhealthy,Birds,4
+11/22/2022 12:00:00 PM,Manhattan,Sara D. Roosevelt Park,Red-tailed Hawk,Native,DOA,Raptors,1
+11/23/2022 2:45:00 PM,Manhattan,West Harlem Piers,Canada Goose,Native,Unhealthy,Birds,1
+11/24/2022 12:00:00 PM,Brooklyn,Flatbush Malls,white-breasted nuthatch,Native,Unhealthy,Birds,0
+11/26/2022 5:00:00 PM,Manhattan,Inwood Hill Park,Canada Goose,Native,Injured,Birds,0
+11/29/2022 4:00:00 PM,Brooklyn,Prospect Park,American Coot,Native,Unhealthy,Birds,1
+11/30/2022 9:00:00 AM,Brooklyn,Brooklyn Bridge Park,American Woodcock,Native,Unhealthy,Birds,1
+11/30/2022 2:40:00 PM,Brooklyn,Bergen Beach,Red-tailed Hawk,Native,Injured,Raptors,0
+12/01/2022 11:00:00 AM,Manhattan,Randall's Island Park,Ring-billed gull,Native,DOA,Birds,1
+12/02/2022 11:30:00 AM,Brooklyn,East 71st Street between Avenue V and Avenue W,Cooper's Hawk,Native,Injured,Raptors,0
+12/05/2022 9:20:00 AM,Manhattan,Central Park,Red-tailed Hawk,Native,Healthy,Raptors,1
+12/08/2022 11:30:00 AM,Manhattan,Jackie Robinson Recreation Center,Chicken,Domestic,Unhealthy,"Birds, Domestic",1
+12/09/2022 2:00:00 PM,Staten Island,Lyons Pool,American Robin,Native,Injured,Birds,1
+12/10/2022 8:20:00 AM,Brooklyn,Prospect Park,Hawk (Unknown),Native,Injured,Raptors,0
+12/10/2022 9:15:00 AM,Bronx,Van Cortlandt Park,Mallard Duck,Native,Injured,Birds,1
+12/10/2022 11:00:00 AM,Bronx,Van Cortlandt Park,Mallard Duck,Native,,Birds,1
+12/12/2022 1:45:00 PM,Manhattan,J. Hood Wright Park,Rock Dove,Native,Unhealthy,Birds,2
+12/12/2022 2:15:00 PM,Staten Island,Lemon Creek Park,Canada Goose,Native,Injured,Birds,1
+12/13/2022 12:30:00 PM,Manhattan,Central Park,Tufted Titmouse,Native,Injured,Birds,1
+12/14/2022 3:40:00 PM,Brooklyn,Prospect Park,Mallard Duck,Native,Injured,Birds,0
+12/14/2022 6:45:00 PM,Queens,Astoria Park,Herring Gull,Native,Injured,Birds,0
+12/15/2022 1:30:00 PM,Manhattan,Fort Tryon Park,Red-tailed Hawk,Native,DOA,Raptors,1
+12/16/2022 12:30:00 PM,Staten Island,Wolfe's Pond Park,Canada Goose,Native,Unhealthy,Birds,1
+12/16/2022 2:30:00 PM,Manhattan,Central Park,Red-tailed Hawk,Native,Injured,Raptors,1
+12/19/2022 12:10:00 PM,Manhattan,Central Park,Tufted Titmouse,Native,DOA,Birds,1
+12/20/2022 10:30:00 AM,Queens,Forest Park,Chicken,Domestic,DOA,"Birds, Domestic",0
+12/20/2022 4:00:00 PM,Bronx,Crotona Park,Common Grackle,Native,DOA,Birds,1
+12/21/2022 8:45:00 AM,Bronx,Gun Hill Playground,Red-tailed Hawk,Native,Unhealthy,Raptors,1
+12/22/2022 10:30:00 AM,Manhattan,Central Park,Chicken,Domestic,DOA,"Domestic, Birds",1
+12/22/2022 11:30:00 AM,Brooklyn,Marine Park,Canada Goose,Native,DOA,Birds,2
+12/24/2022 11:10:00 AM,Bronx,Van Cortlandt Park,Canada Goose,Native,,Birds,1
+12/26/2022 12:00:00 PM,Brooklyn,Prospect Park,Herring Gull,Native,Injured,Birds,1
+12/26/2022 1:00:00 PM,Brooklyn,Marine Park,Canada Goose,Native,Unhealthy,Birds,1
+12/27/2022 9:00:00 AM,Brooklyn,Marine Park,Canada Goose,Native,DOA,Birds,6
+12/27/2022 12:00:00 PM,Brooklyn,Marine Park,Canada Goose,Native,Unhealthy,Birds,1
+12/28/2022 10:30:00 AM,Staten Island,Franklin D. Roosevelt Boardwalk and Beach,Herring Gull,Native,Injured,Birds,1
+12/28/2022 12:50:00 PM,Queens,Flushing Meadows Corona Park,Red-tailed Hawk,Native,Injured,Raptors,1
+12/29/2022 10:00:00 AM,Brooklyn,Brooklyn Bridge Park,Canada Goose,Native,Unhealthy,Birds,1
+12/29/2022 3:30:00 PM,Manhattan,Randall's Island Park,Canada Goose,Native,Unhealthy,Birds,1
+12/30/2022 4:30:00 PM,Manhattan,Central Park,Ring-billed Gull,Native,Injured,Birds,1
+12/31/2022 2:00:00 PM,Brooklyn,Marine Park,Canada Goose,Native,DOA,Birds,2
+12/31/2022 2:24:00 PM,Queens,Kissena Park,Domestic Turkey,Domestic,Unhealthy,"Birds, Domestic",1
