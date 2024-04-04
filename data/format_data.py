@@ -12,7 +12,7 @@ dictionary = {}
 for line in lines: 
     line = line.split(",")  #splits the line into different sections of data (ex. number, location) by comma
     for attr in line:
-        attr = attr.strip()
+        attr = attr.strip() # gets rid of empty space if there is any
     dictionary[line[0]] = [line[1],line[2],line[3],line[4],line[5],line[6]] # adds to dictionary with the date and time as a key (to have separate data, only column with no overlap)
 
 f.close()
