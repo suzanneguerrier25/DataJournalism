@@ -20,11 +20,9 @@ for line in lines:
     dictionary[line[0]] = [line[1],line[2],line[3],line[4],line[5],line[6]] # adds to dictionary with the date and time as a key (to have separate data, only column with no overlap)
 
     
-f.close()
+f.close() 
+
 
 f1= open("data/data.json","w")
-
-
 json.dump(dictionary,f1,indent=4) #adds the data to a json file
-
 f1.close()
