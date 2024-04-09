@@ -15,8 +15,6 @@ for line in lines:
 
     # removes unnecessary formatting 
     line[6] = line[6].replace('\n',"")
-
-    
     dictionary[line[0]] = [line[1],line[2],line[3],line[4],line[5],line[6]] # adds to dictionary with the date and time as a key (to have separate data, only column with no overlap)
 
     
