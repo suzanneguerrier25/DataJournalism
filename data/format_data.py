@@ -4,7 +4,13 @@ f = open("data/cleaneddata.csv","r")
 
 lines = f.readlines()
 
+#initializes all dictionaries
 dictionary = {}
+dictionary["Bronx"] ={}
+dictionary["Manhattan"] ={}
+dictionary["Brooklyn"] ={}
+dictionary["Queens"] ={}
+dictionary["Staten Island"] ={}
 
 # EDIT : went through the csv and removed all Domestic,Birds and changed them to Domestic Birds to facilitate strip() (with ctrlf)
 
@@ -15,7 +21,18 @@ for line in lines:
 
     # removes unnecessary formatting 
     line[6] = line[6].replace('\n',"")
-    dictionary[line[0]] = [line[1],line[2],line[3],line[4],line[5],line[6]] # adds to dictionary with the date and time as a key (to have separate data, only column with no overlap)
+
+    #separates by borough
+    if line[1] == "Brooklyn":   
+        dictionary["Brooklyn"][line[0]] = [line[2],line[3],line[4],line[5],line[6]] 
+    elif line[1] == "Manhattan":
+        dictionary["Manhattan"][line[0]] = [line[2],line[3],line[4],line[5],line[6]]
+    elif line[1] == "Queens":
+        dictionary["Queens"][line[0]] = [line[2],line[3],line[4],line[5],line[6]]
+    elif line[1] == "Bronx":
+        dictionary["Bronx"][line[0]] = [line[2],line[3],line[4],line[5],line[6]]
+    elif line[1] == "Staten Island":
+        dictionary["Staten Island"][line[0]] = [line[2],line[3],line[4],line[5],line[6]]
 
     
 f.close() 
