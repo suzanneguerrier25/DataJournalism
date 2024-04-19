@@ -1,6 +1,7 @@
 from flask import Flask
 from flask import render_template
 from flask import request
+import json
 
 
 app = Flask(__name__,
@@ -12,20 +13,27 @@ app = Flask(__name__,
 @app.route('/')
 def macro():
     f = open("data/data.json","r")
-    return render_template("macro.html")
+    data=json.load(f)
+    return render_template("macro.html",boroughs= data.keys())
 
 @app.route('/about')
 def about():
-    return render_template('about.html')
+    f = open("data/data.json","r")
+    data=json.load(f)
+    return render_template('about.html',boroughs=data.keys())
 
 
 @app.route('/micro')
 def micro():
     borough = request.args.get('borough')
-    return render_template('micro.html', borough=borough)
+    f = open("data/data.json","r")
+    data=json.load(f)
+    return render_template('micro.html', borough=borough, boroughs=data.keys())
 
 @app.route('/extrainfo')
 def extrainfo():
-    return render_template('extrainfo.html')
+    f = open("data/data.json","r")
+    data=json.load(f)
+    return render_template('extrainfo.html',boroughs=data.keys())
    
 app.run(debug=True)
