@@ -22,8 +22,7 @@ def about():
 @app.route('/micro')
 def micro():
     borough = request.args.get('borough')
-    print(borough,"test")
-    return render_template('micro.html')
+    return render_template('micro.html', borough=borough)
 
 @app.route('/extrainfo')
 def extrainfo():

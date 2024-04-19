@@ -1,6 +1,27 @@
 <title>micro</title>
 <body>
     {% include 'navbar.html' %}
-    micro
+    <div class="microintro" style="width:100%; height:75%; background-color:slategray">
+        <h1 style="text-align: center;color:aliceblue; padding-top:2%;"> A deep dive into {{borough}} </h1>
+        <p style="text-align: left; margin-left:5%; margin-right:50%; margin-top:7.5%; color:aliceblue; font-size:30px;">
+            Where are birds injured in {{borough}}? Organized by location (highlighting parks), learn which birds near you are most injury prone
+        </p>
+      <p style="margin-left :60%; margin-right:5%; text-align:center; margin-top:-7.5%; color:aliceblue; font-size:24px; border-color: slategrey;" > insert image here</p>
+    </div>
+    <div class="graph1" style="width:100%; height:75%; background-color:aliceblue;border-color: slategrey;">
+        <svg viewbox="0 0 500 500" width="500" height="500" xlms="http://www.w3.org/2000/svg" fill="#ececec" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".3">
+            <rect width="750" height="750" fill="#aaaaaa"></rect>
+            <text class="filler" x="205" y= "265" text-anchor="middle" fill="#000000">insert grph 1 here</text>
+            
+        </svg>
+    </div>
+    <div class="graph2" style="width:100%; height:75%; background-color:aliceblue;border-color: slategrey;"">
+        <svg viewbox="0 0 500 500" width="500" height="500" xlms="http://www.w3.org/2000/svg" fill="#ececec" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".3">
+            <rect width="1000" height="1000" fill="#aaaaaa"></rect>
+            <text class="filler" x="205" y= "265" text-anchor="middle" fill="#000000">insert grph 2 here</text>
+            
+        </svg>
+
+    </div>
     {% include 'footer.html' %}
 </body>
