@@ -21,19 +21,19 @@
         <div class="collapse navbar-collapse" style="fill:aliceblue;"  id="navbarSupportedContent">
           <ul class="navbar-nav me-auto mb-2 mb-lg-0">
             <!-- ABOUT-->
-            <li class="nav-item">
-              <a class="nav-link" aria-current="page" href="/about">About</a>
+            <li class="nav-item" >
+              <a class="nav-link"  style="color:aliceblue;" aria-current="page" href="/about">About</a>
             </li>
           
             <!-- DROPDOWN -->
            
-            <li class="nav-item dropdown">
-              <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+            <li class="nav-item dropdown" style="color:aliceblue">
+              <a class="nav-link btn btn-secondary dropdown-toggle" style="color:aliceblue" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                 By Borough
               </a>
-              <ul class="dropdown-menu">
+              <ul class="dropdown-menu" style="background-color:darkslategray;">
                 {% for borough in boroughs %}
-                <li><a class="dropdown-item" href="/micro?borough={{borough}}">{{borough}}</a></li>
+                <li><a class="dropdown-item" style="color:aliceblue;" href="/micro?borough={{borough}}">{{borough}}</a></li>
                 {%endfor%}
               </ul>
             
@@ -41,7 +41,7 @@
             
             <!-- EXTRA INFO-->
             <li class="nav-item">
-              <a class="nav-link" href="/extrainfo">Additional Information</a>
+              <a class="nav-link"  style="color:aliceblue;"  href="/extrainfo">Additional Information</a>
             </li>
           </ul>
           </div>

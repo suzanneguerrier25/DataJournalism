@@ -26,9 +26,12 @@ def about():
 @app.route('/micro')
 def micro():
     borough = request.args.get('borough')
+    bronx=False
+    if borough == "Bronx":
+        bronx=True
     f = open("data/data.json","r")
     data=json.load(f)
-    return render_template('micro.html', borough=borough, boroughs=data.keys())
+    return render_template('micro.html', borough=borough, bronx = bronx, boroughs=data.keys())
 
 @app.route('/extrainfo')
 def extrainfo():
