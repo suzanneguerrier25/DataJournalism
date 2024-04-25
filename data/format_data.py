@@ -21,6 +21,8 @@ for line in lines:
 
     # removes unnecessary formatting 
     line[6] = line[6].replace('\n',"")
+    line[6]= int(line[6])
+  
 
     #separates by borough
     if line[1] == "Brooklyn":   

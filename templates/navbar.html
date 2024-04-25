@@ -7,7 +7,7 @@
     <stylesheet href="/static/style.css"></stylesheet>
   </head>
   <body>
-    <nav class="navbar navbar-expand-lg px-2 border-body" style="background-color:darkslategray;">
+    <nav class="navbar navbar-expand-lg px-2 border-body" style="background-color:#2f4f4f;">
       <div class="container-fluid">
         
         <a class="navbar-brand px-2" href="/" style="color:aliceblue;">
@@ -33,7 +33,7 @@
               </a>
               <ul class="dropdown-menu" style="background-color:darkslategray;">
                 {% for borough in boroughs %}
-                <li><a class="dropdown-item" style="color:aliceblue;" href="/micro?borough={{borough}}">{{borough}}</a></li>
+                <li><a class="dropdown-item" style="color:aliceblue;" href="/borough?borough={{borough}}">{{borough}}</a></li>
                 {%endfor%}
               </ul>
             
