@@ -43,7 +43,7 @@ def about():
     return render_template('about.html',boroughs=data.keys())
 
 
-@app.route('/micro')
+@app.route('/borough')
 def micro():
     borough = request.args.get('borough')
     bronx=False

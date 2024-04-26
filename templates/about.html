@@ -1,11 +1,14 @@
 <html>
+    <head>
+    
 <title>
    Bird Calls: Injured Birds in NYC 2022
 </title>
+</head>
 <body>
     {% include 'navbar.html' %}
     <div  style="margin-left: 10%;">
-    <h1> Bird Calls: Injured Birds in NYC 2022</h1>
+    <h1 style="text-align:center; margin-top:5%; padding-right:10%;"> Bird Calls: Injured Birds in NYC 2022</h1>
     <h2> Context:</h2>
     <p>I'm using data from NYC's Urban Park Rangers (who are called by NYC residents to attend to animals, for example, a stray cat, a racoon, or in this case, birds). This dataset contains the status of the animals (healthy, unhealthy, injured), species (ex. hawk), and location (ex. Prospect Park), as well as how the animal was attended to. I'm using this data to analyze where birds have been injured in NYC, to raise awareness about the Park Ranger Service. By seeing the data for injured birds, NYC residents (or visitors) will hopefully be more motivated to make a call themselves. Personally, I had never heard of this service beforehand, despite being an NYC resident.</p>
    
@@ -21,20 +24,40 @@
         <li>    Organized the data as a dictionary with the time and date as the key- separating the indivdual calls, and a list with the other attributes as the values</li>
         <li>    I also removed any extra space as well as edited the Birds, Domestic to be Domestic Birds to facilitate conversion. I also edited any addresses with quotations for the same purpose</li>
     </ol>
-
-    <h2> Prototyping and Feedback</h2>
-    <img src="/protomacro.jpg" alt = "mainpage prototype"/>
-    <img src="/protomicro.jpg" alt= "borough specific prototype" />
-    <p> Above are my protoypes for the site, starting with the main page. My initial idea for the main page was to have a map of NYC, with data for bird calls in each borough, and a summary on hovering a borough. I wanted to keep this summary simple by expanding to simply number of injured birds per borough, which conveys my message by showing how the data is spread across boroughs.
-        <br>
-        For my borough specific pages, I planned to have a map of each borough, highlighting the parks, since that is where most birds were called in. I also added multiple possible charts summarizing the data. Firstly, number of injured birds by location, which I felt conveyed my message because when looking at the data per location, inhabitants of each location can know to look out for birds. Furthermore, I felt a bar chart would most effectively communicate the information.
-         <br>
-         Alternatively I considered a breakdown by species of bird, which I felt would convey my message by pinpointing which type of bird to look out for, as some might get more injured than others. I wanted to keep the graph simple with a bar chart, which would visually separate each species. I would also highlight the most injury-prone species with a darker color.
-        <br>
-          Finally, I considered a line graph on what times of year calls were being made, as that would pinpoint a time where residents should be the most vigilant. I chose a line graph as it would most simply show trends in certain times of the year.
-          <br>
-           I also included a potential color scheme, limiting my palette to a few colors to highlight key information.</p>
-    </p>
+    <h2> Prototyping and Designing:</h2>
+    <div class="protodescards">
+    <div class="card" style="width: 18rem;">
+        <img src="/protomacro.jpg" class="card-img-top" alt="mainpage prototype">
+        <div class="card-body">
+          <h5 class="card-title">Main Page</h5>
+          <p class="card-text">My initial idea for the main page was to have a map of NYC, with data for bird calls in each borough, and a summary on hovering a borough. I wanted to keep this summary simple by expanding to simply number of injured birds per borough, which conveys my message by showing how the data is spread across boroughs.
+        </p>
+    </div>
+        </div>
+   
+      
+      <div class="card" style="width: 18rem;">
+        <img src="/protomicro.jpg" class="card-img-top" alt="borough specific prototype">
+        <div class="card-body">
+          <h5 class="card-title">Borough Specific</h5>
+          <p class="card-text"> 
+            For my borough specific pages, I planned to have a map of each borough, highlighting the parks, since that is where most birds were called in. I also added multiple possible charts summarizing the data. Firstly, number of injured birds by location, which I felt conveyed my message because when looking at the data per location, inhabitants of each location can know to look out for birds. Furthermore, I felt a bar chart would most effectively communicate the information.
+             <br>
+             <br>
+             Alternatively I considered a breakdown by species of bird, which I felt would convey my message by pinpointing which type of bird to look out for, as some might get more injured than others. I wanted to keep the graph simple with a bar chart, which would visually separate each species. I would also highlight the most injury-prone species with a darker color.
+            <br>
+            <br>
+              Finally, I considered a line graph on what times of year calls were being made, as that would pinpoint a time where residents should be the most vigilant. I chose a line graph as it would most simply show trends in certain times of the year.
+            <br>
+            <br>
+              I also included a potential color scheme, limiting my palette to a few colors to highlight key information.
+        </p>
+          
+        </div>
+      </div>
+    </div>
+    
+    <br>
     <h3> Feedback</h3>
     <p>Peer feedback I received can be broken down into 2 main points
         <br>
@@ -47,4 +70,9 @@
     </div>
     {% include 'footer.html' %}
 </body>
+<style>
+    .protodescards{
+        display:inline-block;
+    }
+</style>
 </html>
