@@ -1,22 +1,25 @@
 <html>
     <head>
-    
+      <link rel="preconnect" href="https://fonts.googleapis.com">
+      <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+      <link href="https://fonts.googleapis.com/css2?family=Archivo+Black&display=swap" rel="stylesheet">
 <title>
    Bird Calls: Injured Birds in NYC 2022
 </title>
+    <link rel="stylesheet" href="/style.css">
 </head>
 <body>
     {% include 'navbar.html' %}
     <div  style="margin-left: 5%; margin-right:5%">
-    <h1 style="text-align:center; margin-top:5%;"> Bird Calls: Injured Birds in NYC 2022</h1>
-    <h2> Context:</h2>
+    <h1 class="abouth1"> Bird Calls: Injured Birds in NYC 2022</h1>
+    <h2 class="abouth2"> Context: </h2>
     <p>I'm using data from NYC's Urban Park Rangers (who are called by NYC residents to attend to animals, for example, a stray cat, a racoon, or in this case, birds). This dataset contains the status of the animals (healthy, unhealthy, injured), species (ex. hawk), and location (ex. Prospect Park), as well as how the animal was attended to. I'm using this data to analyze where birds have been injured in NYC, to raise awareness about the Park Ranger Service. By seeing the data for injured birds, NYC residents (or visitors) will hopefully be more motivated to make a call themselves. Personally, I had never heard of this service beforehand, despite being an NYC resident.</p>
    
-    <h2> Data Sources:</h2>
+    <h2 class="abouth2"> Data Sources:</h2>
     <a href="https://data.cityofnewyork.us/Environment/Urban-Park-Ranger-Animal-Condition-Response/fuhs-xmg2/about_data">Urban Park Ranger Animal Condition Response</a>
     <p> Provided by the Department of Parks and Recreation (DPR), Accessed through NYC OpenData</p>
     
-    <h2> Data Cleansing Pipeline:</h2>
+    <h2 class="abouth2"> Data Cleansing Pipeline:</h2>
     <ol>
         <li> Downloaded the data as a csv file and import to google sheets </li>
         <li> Used google sheets to edit the data, deleting columns that weren't necessary to my narrative (ex. if the police was called) and removing rows that contained non-birds / non-raptors (eg. hawk) </li>
@@ -78,7 +81,7 @@
         <span class="visually-hidden">Next</span>
       </button>
     </div>
-    <h2> Prototyping and Designing</h2>
+    <h2 class="abouth2"> Prototyping and Designing</h2>
     <div class="protodescards">
     <div class="card" style="width: 50%;float:left;">
         <img src="/protomacro.jpg" class="card-img-top" alt="mainpage prototype">
@@ -113,7 +116,7 @@
 
     
     <br>
-    <h3> Peer Feedback</h3>
+    <h3 class="abouth3"> Peer Feedback</h3>
     <p class="peerfeedback">Peer feedback I received can be broken down into 2 main points
         <br>
         - Simplicity: The excess of graphs could distract the reader from the message, especially if unorganized
@@ -123,23 +126,11 @@
      To address these, I plan to clearly state on the specific pages how each graph relates to my message, and also potentially crowdsourcing data for if my peers knew about the park ranger call-in beforehand. Furthermore, I will separate the species graph (and potentially others) onto an additional information page, if the visitor would like to know more. On this page I will also post relevant resources.
 
     </div>
-    <div class="footer" style="padding-top:15%">{% include 'footer.html' %}</div>
+    {% include 'footer.html' %}
     
 </body>
 <style>
-  h2{
-    margin-top:5%;
-    margin-bottom:5%; 
-    text-align:center;
-  }
-  h3{
-    padding-top:90%;
-    margin-bottom:2%; 
-    text-align:center;
-  }
-  .peerfeedback{
-    margin-right:52%;
-  }
+  
 </style>
 
 </html>
