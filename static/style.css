@@ -22,27 +22,63 @@ a{
     padding-top:2rem;
     margin-bottom:2%; 
     text-align:center;
-    float:left;
+    float:center;
 }
 .peerfeedback{
-    margin-right:52%;
+    padding-top:2%;
+    margin-left:5%;
+    margin-right:5%;
+}
+#peers{
+    padding-top:0%
+}
+.carousel-item{
+    color:black;
+}
+h5{
+    text-align:center;
+    padding-top:2%;
+}
+.mainpage{
+    margin-left:2%;
+    margin-right:2%;
+    
+}
+.boroughspecific{
+    margin-left:2%;
+    margin-right:2%
 }
 
-
-
+.aboutfooter{
+    margin-right:2%;
+    margin-left:2%;
+    
+}
+h3{
+    text-align:center;
+    
+}
+.mainpageh{
+    padding-top:210%;
+}
 
 
 /*  FOOTER STYLING */
 .footerdiv{
     position:sticky;
-    bottom:0;
+    bottom:0%;
     height:5%;
-    text-align:center;
+    font-size:11px;
+    
+    text-align:left;
     color:aliceblue;
     background-color:darkslategray;
+    
 }
 .footertext{
-    margin-left:5%;
-    margin-right:5%;
+    margin-left:2%;
+    margin-right:0%;
+    padding-top:1%;
     fill:aliceblue;
+    text-align:center;
 }
