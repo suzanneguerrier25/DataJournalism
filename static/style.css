@@ -26,8 +26,8 @@ a{
 }
 .peerfeedback{
     padding-top:2%;
-    margin-left:5%;
-    margin-right:5%;
+    margin-left:2%;
+    margin-right:2%;
 }
 #peers{
     padding-top:0%
@@ -59,14 +59,15 @@ h3{
     
 }
 .mainpageh{
-    padding-top:210%;
+    padding-top:65%;
+
 }
 
 
 /*  FOOTER STYLING */
 .footerdiv{
-    position:sticky;
-    bottom:0%;
+    position:absolute;
+   
     height:5%;
     font-size:11px;
     

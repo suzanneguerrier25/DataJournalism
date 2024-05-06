@@ -12,7 +12,7 @@
     {% include 'navbar.html' %}
     <div  style="margin-left: 5%; margin-right:5%">
     <h1 class="abouth1"> Bird Calls: Injured Birds in NYC 2022</h1>
-    <h2 class="abouth2"> Context: </h2>
+    <h2 class="abouth2"> Context:</h2>
     <p>I'm using data from NYC's Urban Park Rangers (who are called by NYC residents to attend to animals, for example, a stray cat, a racoon, or in this case, birds). This dataset contains the status of the animals (healthy, unhealthy, injured), species (ex. hawk), and location (ex. Prospect Park), as well as how the animal was attended to. I'm using this data to analyze where birds have been injured in NYC, to raise awareness about the Park Ranger Service. By seeing the data for injured birds, NYC residents (or visitors) will hopefully be more motivated to make a call themselves. Personally, I had never heard of this service beforehand, despite being an NYC resident.</p>
    
     <h2 class="abouth2"> Data Sources:</h2>
@@ -27,40 +27,41 @@
         <button type="button" data-bs-target="#carousel" data-bs-slide-to="1" aria-label="Slide 2"></button>
         <button type="button" data-bs-target="#carousel" data-bs-slide-to="2" aria-label="Slide 3"></button>
         <button type="button" data-bs-target="#carousel" data-bs-slide-to="3" aria-label="Slide 4"></button>
+        <button type="button" data-bs-target="#carousel" data-bs-slide-to="4" aria-label="Slide 5"></button>
       </div> <!-- end indicators-->
       <div class="carousel-inner">
         <div class="carousel-item active">
           <img src="/datacleansingpipeline/importingthefile.png" class="d-block w-100" alt="...">
-          <div class="carousel-caption d-none d-md-block"style="color:#0A7878;">
-            <h5>Importing the CSV file</h5>
+          <div class="carousel-caption d-none d-md-block"style="color:darkslategray;font-weight:bold;background:rgba(255,255,255,0.4);">
+            <h5>1. Importing the CSV file</h5>
             <p>I downloaded the data as a .csv file, and imported into sheets.</p>
           </div>
         </div> <!-- end active item-->
-        <div class="carousel-item">
+        <div class="carousel-item" >
           <img src="/datacleansingpipeline/removingrows.png" class="d-block w-100" alt="...">
-          <div class="carousel-caption d-none d-md-block">
-            <h5>Editing the data</h5>
+          <div class="carousel-caption d-none d-md-block"style="color:darkslategray;font-weight:bold;background:rgba(255,255,255,0.4);">
+            <h5>2. Editing the data</h5>
             <p>I used google sheets to edit the data, removing any that wasn't necessary for my search (i.e. stray cats)</p>
           </div>
         </div>
         <div class="carousel-item">
           <img src="/datacleansingpipeline/pipelineoverview.png" class="d-block w-100" alt="...">
           <div class="carousel-caption d-none d-md-block">
-            <h5>Reformatting Data</h5>
+            <h5>3. Reformatting Data</h5>
             <p>I used a <a href="https://github.com/suzanneguerrier25/DataJournalism/blob/main/data/format_data.py">format_data.py</a> file to convert the data to json format</p>
           </div>
         </div>
         <div class="carousel-item">
           <img src="/datacleansingpipeline/datastructure.png" class="d-block w-100" alt="...">
           <div class="carousel-caption d-none d-md-block">
-            <h5>Data Structure</h5>
+            <h5>4. Data Structure</h5>
             <p>I used a dictionary with the date and time as the key, to separate calls by boroughs, and not overwrite any calls.</p>
           </div>
         </div>
         <div class="carousel-item">
-          <img src="/datacleansingpipeline/formatting.png" class="d-block w-100" alt="...">
+          <img src="/datacleansingpipeline/formattingex.png" class="d-block w-100" alt="...">
           <div class="carousel-caption d-none d-md-block">
-            <h5>Formatting the data</h5>
+            <h5>5. Formatting the data</h5>
             <p>I also took the time to format the data, removing newlines as well as incomplete entries.</p>
           </div>
         </div>
@@ -90,7 +91,7 @@
       </div>
     </div>
     
-      <h3 class="maingpageh">Main Page</h3>
+      <h3 class="mainpageh">Main Page</h3>
       <p class="mainpage">My initial idea for the main page was to have a map of NYC, with data for bird calls in each borough, and a summary on hovering a borough. I wanted to keep this summary simple by expanding to simply number of injured birds per borough, which conveys my message by showing how the data is spread across boroughs.
     </p>
       <h3>Borough Specific</h3>
