@@ -34,7 +34,7 @@ def macro():
                 brkbirdnum+=(data[borough][call][4])/200
     print(brkbirdnum,manbirdnum,qubirdnum,sibirdnum,brnxbirdnum)
 
-    return render_template("macro.html",boroughs= data.keys(),brkbirdnum=brkbirdnum,manbirdnum=manbirdnum,qubirdnum=qubirdnum,sibirdnum=sibirdnum,brnxbirdnum=brnxbirdnum)
+    return render_template("macro.html",boroughs= data.keys(),brkbirdnum=brkbirdnum,manbirdnum=manbirdnum,qubirdnum=qubirdnum,sibirdnum=sibirdnum,brnxbirdnum=brnxbirdnum,brkbirdnumtempl=int(brkbirdnum*200),manbirdnumtempl=int(manbirdnum*200),qubirdnumtempl=int(qubirdnum*200),sibirdnumtempl=int(sibirdnum*200),brnxbirdnumtempl=int(brnxbirdnum*200))
 
 @app.route('/about')
 def about():
@@ -51,7 +51,36 @@ def micro():
         bronx=True
     f = open("data/data.json","r")
     data=json.load(f)
-    return render_template('micro.html', borough=borough, bronx = bronx, boroughs=data.keys())
+    parkdict={}
+    for b in data:
+        if b == borough:
+            
+            for call in data[b]:
+               
+                if data[b][call][0] not in parkdict:
+    
+                    parkdict[data[b][call][0]] = data[b][call][4]
+                else:
+                    parkdict[data[b][call][0]]+=data[b][call][4]
+    total=0
+    count=0
+    for i in parkdict:
+        count+=1
+        total+=parkdict[i]
+    average=int(total/count)
+    
+    lessthanaverage={}
+    morethanaverage={}
+    i=0
+    for j in parkdict:
+            if parkdict[j] < average and len(lessthanaverage) < 5:
+                lessthanaverage[j] = parkdict[j]
+            else:
+                if( len(morethanaverage) < 5):
+                    morethanaverage[j] = parkdict[j]
+           
+    print(lessthanaverage,morethanaverage)
+    return render_template('micro.html', borough=borough, bronx = bronx, boroughs=data.keys(),parkdict=parkdict,average=average, lessthanaverage=lessthanaverage,morethanaverage=morethanaverage)
 
 @app.route('/extrainfo')
 def extrainfo():
