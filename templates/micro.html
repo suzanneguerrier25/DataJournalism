@@ -9,7 +9,7 @@
     <link href="https://fonts.googleapis.com/css2?family=Archivo+Black&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="style.css">
   </head>
-<title>micro</title>
+<title>Bird Calls: {{borough}}</title>
 <body>
     {% include 'navbar.html' %}
     <div class="microintro" style="width:100%; height:75%; background-color:slategray">
@@ -25,22 +25,16 @@
         </p>
 
     </div>
-    <div class="graph1" style="width:100%; height:75%; background-color:aliceblue;border-color: slategrey;">
-        <svg viewbox="0 0 500 500" width="500" height="500" xlms="http://www.w3.org/2000/svg" fill="#ececec" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".3">
-            <rect width="750" height="750" fill="#aaaaaa"></rect>
+        <h3 style="padding-top:0%;margin-top:-10%;"> Find your park (or location)! (Parks v. Number of Calls)</h3>
+            <ul>
+            {%for park in parkdict%}  
+            <li style="margin-left:8%">{{park}} - {{parkdict[park]}}{%if parkdict[park] ==1 %} call{%else%} calls{%endif%}</li>
+            {%endfor%}
+            </ul>
           
-            <text class="parks" x="100" y="300" text-anchor="middle" fill="#000000">{{park}}</text>
-            <g fill="#000000" width="800px" height="800px" viewBox="0 0 24 24">
-                <path d="M22.7,3.55a1,1,0,0,1,0,1.422L18.77,8.862a9.542,9.542,0,0,1-.682,12.849,1,1,0,0,1-1.406,0L11.5,16.59,9.046,21.451a1,1,0,0,1-.732.536.959.959,0,0,1-.16.013,1,1,0,0,1-.7-.289L1.3,15.624a1,1,0,0,1,.26-1.607l4.9-2.422L1.3,6.493a1,1,0,0,1,0-1.422,9.733,9.733,0,0,1,10.642-2.05,1,1,0,1,1-.773,1.843,7.748,7.748,0,0,0-7.7.964l5.388,5.33a1,1,0,0,1-.26
-                ,1.608L3.7,15.188l4.181,4.135,2.457-4.861a1,1,0,0,1,1.6-.26l5.406,5.347a7.541,7.541,0,0,0-.658-10.012,1,1,0,0,1,0-1.422l3.785-3.744a3.392,3.392,0,0,0-3.918.6L12.7,8.776a1,1,0,0,1-1.7-.607,1.051,1.051,0,0,1,.446-.967L15.143,3.55A5.4,5.4,0,0,1,22.7,3.55Z"></path>
-     
-            </g>
         
- 
-           <!-- <text class="filler" x="205" y= "265" text-anchor="middle" fill="#000000">insert grph 1 here</text>-->       
-        </svg>
     </div>
-    <p>
+    <p style="margin-left:5%; margin-right:5%;">
         As can be seen in the infographic, the average for {{borough}} was {{average}}. Some parks had lower numbers than the average, specifically 
         {%for park in lessthanaverage%}
         {{park}}, 

@@ -72,7 +72,12 @@ def micro():
     lessthanaverage={}
     morethanaverage={}
     i=0
+
+    parks=[]
+    numbirdsperpark=[]
     for j in parkdict:
+            parks.append(j)
+            numbirdsperpark.append(parkdict[j])
             if parkdict[j] < average and len(lessthanaverage) < 5:
                 lessthanaverage[j] = parkdict[j]
             else:
@@ -80,7 +85,7 @@ def micro():
                     morethanaverage[j] = parkdict[j]
            
     print(lessthanaverage,morethanaverage)
-    return render_template('micro.html', borough=borough, bronx = bronx, boroughs=data.keys(),parkdict=parkdict,average=average, lessthanaverage=lessthanaverage,morethanaverage=morethanaverage)
+    return render_template('micro.html', borough=borough, bronx = bronx, boroughs=data.keys(),parkdict=parkdict,average=average, lessthanaverage=lessthanaverage,morethanaverage=morethanaverage,parks=parks,numbirdsperpark=numbirdsperpark)
 
 @app.route('/extrainfo')
 def extrainfo():
